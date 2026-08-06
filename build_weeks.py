@@ -39,15 +39,15 @@ def build_week_rss(week_num, episodes_for_week):
         "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
     })
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = f"Foro de Teresina — Week {week_num:02d} of the Year"
+    ET.SubElement(channel, "title").text = f"Foro de Teresina — Semana {week_num:02d} do Ano"
     ET.SubElement(channel, "link").text = CHANNEL_LINK
     ET.SubElement(channel, "language").text = CHANNEL_LANGUAGE
     ET.SubElement(channel, "description").text = (
-        "Unofficial personal re-ordering of the Foro de Teresina podcast "
-        f"archive: every historical episode originally published in ISO "
-        f"calendar week {week_num:02d}, oldest year first. Audio is "
-        "streamed from the original publisher's hosting; nothing is "
-        "re-hosted here."
+        "Reordenação pessoal e não oficial do acervo do podcast Foro de "
+        f"Teresina: todo episódio histórico originalmente publicado na "
+        f"semana {week_num:02d} do calendário ISO, do ano mais antigo para "
+        "o mais recente. O áudio é transmitido a partir da hospedagem "
+        "original da publicadora; nada é hospedado novamente aqui."
     )
     ET.SubElement(channel, "itunes:author").text = CHANNEL_AUTHOR
     ET.SubElement(channel, "itunes:image", {"href": CHANNEL_IMAGE})
@@ -65,7 +65,7 @@ def build_week_rss(week_num, episodes_for_week):
             dt = dt.replace(tzinfo=timezone.utc)
         ET.SubElement(item, "pubDate").text = format_datetime(dt)
         ET.SubElement(item, "description").text = (
-            f"Originally aired {ep['pubDate'][:10]}."
+            f"Ao ar originalmente em {ep['pubDate'][:10]}."
         )
         guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
         guid.text = ep["guid"]

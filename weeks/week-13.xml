@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 13 of the Year</title>
+    <title>Foro de Teresina — Semana 13 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 13, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 13 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 13 of the Year</title>
+      <title>Foro de Teresina — Semana 13 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#44: Congresso desafia Bolsonaro, as últimas olavadas e Temer livre</title>
       <pubDate>Thu, 28 Mar 2019 19:50:00 +0000</pubDate>
-      <description>Originally aired 2019-03-28.</description>
+      <description>Ao ar originalmente em 2019-03-28.</description>
       <guid isPermaLink="false">4cb6de1bded347e190d5dad9db38fa47</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3575590051.mp3?updated=1713195791" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:25</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#93: O Brasil de quarentena, o isolamento de Bolsonaro e a economia à deriva</title>
       <pubDate>Thu, 26 Mar 2020 20:09:00 +0000</pubDate>
-      <description>Originally aired 2020-03-26.</description>
+      <description>Ao ar originalmente em 2020-03-26.</description>
       <guid isPermaLink="false">b26d5281-6b60-432c-bc6b-975cf6ce87a8</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1042622089.mp3?updated=1712685890" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:32</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>#144: Novos generais, velho truque</title>
       <pubDate>Fri, 02 Apr 2021 13:30:00 +0000</pubDate>
-      <description>Originally aired 2021-04-02.</description>
+      <description>Ao ar originalmente em 2021-04-02.</description>
       <guid isPermaLink="false">d33d3871-09c7-446f-881d-25194587d840</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7354197680.mp3?updated=1712603351" type="audio/mpeg" length="0" />
       <itunes:duration>00:56:55</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>#194: Entre blefes e bravatas</title>
       <pubDate>Fri, 01 Apr 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-04-01.</description>
+      <description>Ao ar originalmente em 2022-04-01.</description>
       <guid isPermaLink="false">21e511f4-dea0-43ce-81d1-d79d6f8853c3</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7048463281.mp3?updated=1698090536" type="audio/mpeg" length="0" />
       <itunes:duration>00:58:16</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#246: Partidas, chegadas e tragédias</title>
       <pubDate>Fri, 31 Mar 2023 13:45:00 +0000</pubDate>
-      <description>Originally aired 2023-03-31.</description>
+      <description>Ao ar originalmente em 2023-03-31.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/53401800</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2815852620.mp3?updated=1712257722" type="audio/mpeg" length="0" />
       <itunes:duration>00:59:19</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>Ouça o novo Foro de Teresina</title>
       <pubDate>Fri, 29 Mar 2024 13:35:59 +0000</pubDate>
-      <description>Originally aired 2024-03-29.</description>
+      <description>Ao ar originalmente em 2024-03-29.</description>
       <guid isPermaLink="false">9e809e4c-edd1-11ee-81b5-f784794e6647</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1937345027.mp3?updated=1711719807" type="audio/mpeg" length="0" />
       <itunes:duration>00:00:48</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>O caso Marielle, o caso Maduro e o caso do pijama</title>
       <pubDate>Fri, 29 Mar 2024 13:45:00 +0000</pubDate>
-      <description>Originally aired 2024-03-29.</description>
+      <description>Ao ar originalmente em 2024-03-29.</description>
       <guid isPermaLink="false">b7524ed2-edc9-11ee-90cc-4be3f7899e9e</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU3668923014.mp3?updated=1712949134" type="audio/mpeg" length="0" />
       <itunes:duration>00:57:28</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>A denúncia de Bolsonaro e os planos de guerra de Trump</title>
       <pubDate>Sun, 30 Mar 2025 17:30:00 +0000</pubDate>
-      <description>Originally aired 2025-03-30.</description>
+      <description>Ao ar originalmente em 2025-03-30.</description>
       <guid isPermaLink="false">1e8c90a0-0bd6-11f0-bd47-4f4c67a4885b</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5448706214.mp3?updated=1743356122" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:01</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>Bolsonaro avança, Ratinho recua e Cláudio Castro implode </title>
       <pubDate>Fri, 27 Mar 2026 13:21:00 +0000</pubDate>
-      <description>Originally aired 2026-03-27.</description>
+      <description>Ao ar originalmente em 2026-03-27.</description>
       <guid isPermaLink="false">dfe03450-29df-11f1-966f-5b7865289c81</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7215303470.mp3?updated=1774618842" type="audio/mpeg" length="0" />
       <itunes:duration>01:11:04</itunes:duration>

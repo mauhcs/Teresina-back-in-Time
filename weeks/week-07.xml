@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 07 of the Year</title>
+    <title>Foro de Teresina — Semana 07 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 07, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 07 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 07 of the Year</title>
+      <title>Foro de Teresina — Semana 07 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#39: A fritura de Bebianno, a matança no Rio e os inimigos na Amazônia</title>
       <pubDate>Thu, 14 Feb 2019 19:49:00 +0000</pubDate>
-      <description>Originally aired 2019-02-14.</description>
+      <description>Ao ar originalmente em 2019-02-14.</description>
       <guid isPermaLink="false">4e884f3b30a24504a8b4bbc9f8b03505</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3986645055.mp3?updated=1713197365" type="audio/mpeg" length="0" />
       <itunes:duration>00:55:04</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>Recado do Fernando</title>
       <pubDate>Mon, 10 Feb 2020 15:09:45 +0000</pubDate>
-      <description>Originally aired 2020-02-10.</description>
+      <description>Ao ar originalmente em 2020-02-10.</description>
       <guid isPermaLink="false">909c8666-f41d-43a5-b123-de067a6bab72</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2160239173.mp3?updated=1698090718" type="audio/mpeg" length="0" />
       <itunes:duration>00:02:41</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>#88: O miliciano morto, o Bolsa Família e o Pateta, e uma São Paulo submersa</title>
       <pubDate>Thu, 13 Feb 2020 20:16:00 +0000</pubDate>
-      <description>Originally aired 2020-02-13.</description>
+      <description>Ao ar originalmente em 2020-02-13.</description>
       <guid isPermaLink="false">12d46cf2-22d5-48c4-b437-e4e7ff700811</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2173729875.mp3?updated=1712688672" type="audio/mpeg" length="0" />
       <itunes:duration>00:56:40</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>#138: Mais armas, menos vacinas</title>
       <pubDate>Fri, 19 Feb 2021 14:00:00 +0000</pubDate>
-      <description>Originally aired 2021-02-19.</description>
+      <description>Ao ar originalmente em 2021-02-19.</description>
       <guid isPermaLink="false">983353ff-d450-4e0a-aa1b-d60baa540c94</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2442842521.mp3?updated=1712603916" type="audio/mpeg" length="0" />
       <itunes:duration>00:55:34</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#188: O viajante inútil e a tragédia</title>
       <pubDate>Fri, 18 Feb 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-02-18.</description>
+      <description>Ao ar originalmente em 2022-02-18.</description>
       <guid isPermaLink="false">b3ed0ae8-e883-4526-b06a-9ddac1baccaa</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6904731938.mp3?updated=1712279764" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:19</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#240: A jogada de Lula</title>
       <pubDate>Fri, 17 Feb 2023 13:43:00 +0000</pubDate>
-      <description>Originally aired 2023-02-17.</description>
+      <description>Ao ar originalmente em 2023-02-17.</description>
       <guid isPermaLink="false">1417084c-6378-47e0-aea6-e3dc399d27ea</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP8863045382.mp3?updated=1698090490" type="audio/mpeg" length="0" />
       <itunes:duration>01:03:16</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>Lula reforma, Trump demole e golpistas se excitam</title>
       <pubDate>Fri, 14 Feb 2025 12:30:00 +0000</pubDate>
-      <description>Originally aired 2025-02-14.</description>
+      <description>Ao ar originalmente em 2025-02-14.</description>
       <guid isPermaLink="false">78d155fa-eacf-11ef-b7a0-fb1f3c33df75</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU8685326817.mp3?updated=1739538489" type="audio/mpeg" length="0" />
       <itunes:duration>01:08:29</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title> Toffoli sob suspeita, o vice de Lula e o fim da jornada 6x1</title>
       <pubDate>Fri, 13 Feb 2026 13:37:00 +0000</pubDate>
-      <description>Originally aired 2026-02-13.</description>
+      <description>Ao ar originalmente em 2026-02-13.</description>
       <guid isPermaLink="false">356d059e-08e1-11f1-afaa-5b2d08fe7486</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7771402224.mp3?updated=1770991158" type="audio/mpeg" length="0" />
       <itunes:duration>01:06:56</itunes:duration>

@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 20 of the Year</title>
+    <title>Foro de Teresina — Semana 20 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 20, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 20 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 20 of the Year</title>
+      <title>Foro de Teresina — Semana 20 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#1: Justiçamento, abraço de gambá e túnel do tempo</title>
       <pubDate>Thu, 17 May 2018 19:16:00 +0000</pubDate>
-      <description>Originally aired 2018-05-17.</description>
+      <description>Ao ar originalmente em 2018-05-17.</description>
       <guid isPermaLink="false">b677d55da7af49d698116d1af47ba7c6</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3599174774.mp3?updated=1713197583" type="audio/mpeg" length="0" />
       <itunes:duration>00:40:37</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>Extra: Foro de Teresina especial na Maratona Piauí CBN de Podcast</title>
       <pubDate>Wed, 15 May 2019 20:46:35 +0000</pubDate>
-      <description>Originally aired 2019-05-15.</description>
+      <description>Ao ar originalmente em 2019-05-15.</description>
       <guid isPermaLink="false">a249f3dfdc414667b169c9307d46450d</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP8988303883.mp3?updated=1698090758" type="audio/mpeg" length="0" />
       <itunes:duration>00:55:35</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>#51: Moro no STF, o sigilo de Queiroz e Flavio e os protestos contra o governo</title>
       <pubDate>Thu, 16 May 2019 19:45:00 +0000</pubDate>
-      <description>Originally aired 2019-05-16.</description>
+      <description>Ao ar originalmente em 2019-05-16.</description>
       <guid isPermaLink="false">c9d25d6fcf594d9eb867f3c76428bee2</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4577908578.mp3?updated=1712701921" type="audio/mpeg" length="0" />
       <itunes:duration>01:11:21</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Convite: Foro de Teresina de aniversário</title>
       <pubDate>Fri, 17 May 2019 19:57:53 +0000</pubDate>
-      <description>Originally aired 2019-05-17.</description>
+      <description>Ao ar originalmente em 2019-05-17.</description>
       <guid isPermaLink="false">7ad4dc00261f4147934bc223905baee4</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP5523082776.mp3?updated=1698090756" type="audio/mpeg" length="0" />
       <itunes:duration>00:01:37</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>Luz no fim da quarentena #13: Máscara, vírus e camisinha</title>
       <pubDate>Tue, 12 May 2020 09:30:00 +0000</pubDate>
-      <description>Originally aired 2020-05-12.</description>
+      <description>Ao ar originalmente em 2020-05-12.</description>
       <guid isPermaLink="false">d702ec08-dece-473e-ae9e-ac20b6bfc749</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2749553133.mp3?updated=1698090691" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:46</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#100: Quem ameaça e quem protege Bolsonaro</title>
       <pubDate>Thu, 14 May 2020 19:50:00 +0000</pubDate>
-      <description>Originally aired 2020-05-14.</description>
+      <description>Ao ar originalmente em 2020-05-14.</description>
       <guid isPermaLink="false">b1ae4423-aa2a-48de-85df-42dfb7dc1963</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7675334230.mp3?updated=1712676303" type="audio/mpeg" length="0" />
       <itunes:duration>00:59:59</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>Luz no fim da quarentena #14: Melhor vacina é não parar por ela</title>
       <pubDate>Fri, 15 May 2020 15:12:45 +0000</pubDate>
-      <description>Originally aired 2020-05-15.</description>
+      <description>Ao ar originalmente em 2020-05-15.</description>
       <guid isPermaLink="false">d00f4797-bcb1-4ed9-ae93-3a7616bcda71</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7862925700.mp3?updated=1698090689" type="audio/mpeg" length="0" />
       <itunes:duration>00:17:44</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>Extra: Teich pede para sair</title>
       <pubDate>Fri, 15 May 2020 18:42:00 +0000</pubDate>
-      <description>Originally aired 2020-05-15.</description>
+      <description>Ao ar originalmente em 2020-05-15.</description>
       <guid isPermaLink="false">1b5e16e8-d072-43ee-9052-1e3106b9e39a</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6421997330.mp3?updated=1712676205" type="audio/mpeg" length="0" />
       <itunes:duration>00:13:59</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>Luz no fim da quarentena #15: Longe da imunidade de rebanho</title>
       <pubDate>Sat, 16 May 2020 01:12:06 +0000</pubDate>
-      <description>Originally aired 2020-05-16.</description>
+      <description>Ao ar originalmente em 2020-05-16.</description>
       <guid isPermaLink="false">e5dc117a-d58e-40df-909e-964f3dd84d20</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6369825350.mp3?updated=1698090687" type="audio/mpeg" length="0" />
       <itunes:duration>00:15:44</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>Especial: Dois anos de "coisa errada"</title>
       <pubDate>Sat, 16 May 2020 13:55:00 +0000</pubDate>
-      <description>Originally aired 2020-05-16.</description>
+      <description>Ao ar originalmente em 2020-05-16.</description>
       <guid isPermaLink="false">0ea80cf9-78fd-4116-a324-26ba6344f5b3</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7510753859.mp3?updated=1712676074" type="audio/mpeg" length="0" />
       <itunes:duration>00:36:39</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>#151: Em nome do chefe</title>
       <pubDate>Fri, 21 May 2021 13:29:00 +0000</pubDate>
-      <description>Originally aired 2021-05-21.</description>
+      <description>Ao ar originalmente em 2021-05-21.</description>
       <guid isPermaLink="false">6d0c504b-f708-43ca-b78c-51ae8b5cfc89</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1776395059.mp3?updated=1712598580" type="audio/mpeg" length="0" />
       <itunes:duration>01:02:23</itunes:duration>
@@ -115,7 +115,7 @@
     <item>
       <title>#201: Se ganhar, leva?</title>
       <pubDate>Fri, 20 May 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-05-20.</description>
+      <description>Ao ar originalmente em 2022-05-20.</description>
       <guid isPermaLink="false">fa9e7e04-2e0f-481a-87c5-4b58f66efed1</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1921276562.mp3?updated=1712267623" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:50</itunes:duration>
@@ -124,7 +124,7 @@
     <item>
       <title>#253: Ladrão de manchetes</title>
       <pubDate>Fri, 19 May 2023 13:56:45 +0000</pubDate>
-      <description>Originally aired 2023-05-19.</description>
+      <description>Ao ar originalmente em 2023-05-19.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/53929733</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4361833272.mp3?updated=1698090478" type="audio/mpeg" length="0" />
       <itunes:duration>01:10:51</itunes:duration>
@@ -133,7 +133,7 @@
     <item>
       <title>#1 Mãe Beth de Oxum | Desiguais</title>
       <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
-      <description>Originally aired 2024-05-15.</description>
+      <description>Ao ar originalmente em 2024-05-15.</description>
       <guid isPermaLink="false">ee590394-0eda-11ef-b4e7-6b1eb80303b1</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7134059325.mp3?updated=1715352719" type="audio/mpeg" length="0" />
       <itunes:duration>00:30:46</itunes:duration>
@@ -142,7 +142,7 @@
     <item>
       <title>A reconstrução do Sul, o recuo de Moraes e a mudança na Petrobras</title>
       <pubDate>Fri, 17 May 2024 13:40:00 +0000</pubDate>
-      <description>Originally aired 2024-05-17.</description>
+      <description>Ao ar originalmente em 2024-05-17.</description>
       <guid isPermaLink="false">64701d02-1448-11ef-9396-9b15ab29e91e</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1258349699.mp3?updated=1715950192" type="audio/mpeg" length="0" />
       <itunes:duration>01:08:02</itunes:duration>
@@ -151,7 +151,7 @@
     <item>
       <title>A diplomacia de Lula, os planos de Temer e o adeus a Mujica</title>
       <pubDate>Fri, 16 May 2025 12:41:00 +0000</pubDate>
-      <description>Originally aired 2025-05-16.</description>
+      <description>Ao ar originalmente em 2025-05-16.</description>
       <guid isPermaLink="false">14f43c7a-3253-11f0-90fc-6b906cf21e70</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2726557728.mp3?updated=1747400458" type="audio/mpeg" length="0" />
       <itunes:duration>01:05:09</itunes:duration>
@@ -160,7 +160,7 @@
     <item>
       <title>Vorcaro e Flávio, os bons companheiros</title>
       <pubDate>Fri, 15 May 2026 12:30:00 +0000</pubDate>
-      <description>Originally aired 2026-05-15.</description>
+      <description>Ao ar originalmente em 2026-05-15.</description>
       <guid isPermaLink="false">e6d08ef4-5059-11f1-8419-ebf18d54d61b</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1925469111.mp3?updated=1778849445" type="audio/mpeg" length="0" />
       <itunes:duration>01:09:34</itunes:duration>

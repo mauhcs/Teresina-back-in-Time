@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 08 of the Year</title>
+    <title>Foro de Teresina — Semana 08 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 08, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 08 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 08 of the Year</title>
+      <title>Foro de Teresina — Semana 08 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#40: O BBB de Bebianno, a Previdência de Bolsonaro e o bunker de Paulo Preto</title>
       <pubDate>Thu, 21 Feb 2019 19:50:00 +0000</pubDate>
-      <description>Originally aired 2019-02-21.</description>
+      <description>Ao ar originalmente em 2019-02-21.</description>
       <guid isPermaLink="false">dfc63ce30f8141f2a0b57677208a978d</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1265389648.mp3?updated=1713197223" type="audio/mpeg" length="0" />
       <itunes:duration>00:51:38</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#89: As mentiras de Bolsonaro, a caserna no Planalto e os tiros contra Cid Gomes</title>
       <pubDate>Thu, 20 Feb 2020 20:00:00 +0000</pubDate>
-      <description>Originally aired 2020-02-20.</description>
+      <description>Ao ar originalmente em 2020-02-20.</description>
       <guid isPermaLink="false">ca5700fb-c22c-4965-aa2f-7443a9335bbc</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2900114550.mp3?updated=1712688597" type="audio/mpeg" length="0" />
       <itunes:duration>00:56:48</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #60: Cobaias ou heróis?</title>
       <pubDate>Tue, 23 Feb 2021 09:00:00 +0000</pubDate>
-      <description>Originally aired 2021-02-23.</description>
+      <description>Ao ar originalmente em 2021-02-23.</description>
       <guid isPermaLink="false">a2ce732f-d24c-4636-8b3f-4c53166c50ad</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3950091627.mp3?updated=1698090596" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:23</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>#139: Liberalismo adernado e o tsunami</title>
       <pubDate>Fri, 26 Feb 2021 14:00:00 +0000</pubDate>
-      <description>Originally aired 2021-02-26.</description>
+      <description>Ao ar originalmente em 2021-02-26.</description>
       <guid isPermaLink="false">69b42c81-84cf-4d7a-b2d2-87c3492fb28c</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2007457793.mp3?updated=1712603832" type="audio/mpeg" length="0" />
       <itunes:duration>00:57:15</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#189: A guerra, as armas e a dama de vermelho</title>
       <pubDate>Fri, 25 Feb 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-02-25.</description>
+      <description>Ao ar originalmente em 2022-02-25.</description>
       <guid isPermaLink="false">c5e4fc22-3b4c-4644-8353-2eeaf7a69863</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9842397787.mp3?updated=1712279055" type="audio/mpeg" length="0" />
       <itunes:duration>00:58:40</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#241: Tá mudado vai mudar mais</title>
       <pubDate>Fri, 24 Feb 2023 13:43:00 +0000</pubDate>
-      <description>Originally aired 2023-02-24.</description>
+      <description>Ao ar originalmente em 2023-02-24.</description>
       <guid isPermaLink="false">186e7b68-c875-49e6-8350-4c0ce0b5f6b9</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4926340679.mp3?updated=1698090489" type="audio/mpeg" length="0" />
       <itunes:duration>01:05:38</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>O cerco a Bolsonaro e os dilemas de Lula</title>
       <pubDate>Fri, 21 Feb 2025 12:56:00 +0000</pubDate>
-      <description>Originally aired 2025-02-21.</description>
+      <description>Ao ar originalmente em 2025-02-21.</description>
       <guid isPermaLink="false">552ffa82-f053-11ef-a697-4739db43d1db</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4830418292.mp3?updated=1740143695" type="audio/mpeg" length="0" />
       <itunes:duration>01:07:49</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>O Carnaval de Lula e Xandão e um lobby do agro na educação</title>
       <pubDate>Fri, 20 Feb 2026 12:42:00 +0000</pubDate>
-      <description>Originally aired 2026-02-20.</description>
+      <description>Ao ar originalmente em 2026-02-20.</description>
       <guid isPermaLink="false">427ca306-0e5a-11f1-8f64-23252e977f25</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7788717507.mp3?updated=1771593319" type="audio/mpeg" length="0" />
       <itunes:duration>01:05:15</itunes:duration>

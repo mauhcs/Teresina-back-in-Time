@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 33 of the Year</title>
+    <title>Foro de Teresina — Semana 33 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 33, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 33 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 33 of the Year</title>
+      <title>Foro de Teresina — Semana 33 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#14: O ventríloquo de Haddad, a sucessão no Rio e o primeiro-ministro de Bolsonaro</title>
       <pubDate>Thu, 16 Aug 2018 21:30:00 +0000</pubDate>
-      <description>Originally aired 2018-08-16.</description>
+      <description>Ao ar originalmente em 2018-08-16.</description>
       <guid isPermaLink="false">5514c2c9fefb480e87baf989b1855614</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP5127102414.mp3?updated=1713228066" type="audio/mpeg" length="0" />
       <itunes:duration>00:48:44</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#64: A fritura de Moro, a expulsão de Frota e o acordo de Itaipu</title>
       <pubDate>Thu, 15 Aug 2019 19:45:00 +0000</pubDate>
-      <description>Originally aired 2019-08-15.</description>
+      <description>Ao ar originalmente em 2019-08-15.</description>
       <guid isPermaLink="false">ce26b8da3adb4b459ccc0538a79850e0</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3510731805.mp3?updated=1712699685" type="audio/mpeg" length="0" />
       <itunes:duration>00:49:12</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #40: 18% de infectados em São Paulo</title>
       <pubDate>Mon, 10 Aug 2020 18:00:00 +0000</pubDate>
-      <description>Originally aired 2020-08-10.</description>
+      <description>Ao ar originalmente em 2020-08-10.</description>
       <guid isPermaLink="false">63112a5c-5068-4b96-a73c-8702254a09eb</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7689539828.mp3?updated=1698090649" type="audio/mpeg" length="0" />
       <itunes:duration>00:17:31</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Luz no fim da quarentena #41: Sem sintoma, com Covid-19</title>
       <pubDate>Thu, 13 Aug 2020 09:30:00 +0000</pubDate>
-      <description>Originally aired 2020-08-13.</description>
+      <description>Ao ar originalmente em 2020-08-13.</description>
       <guid isPermaLink="false">b31266ed-ed86-41be-9c5c-427db7efd086</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4669514399.mp3?updated=1698090648" type="audio/mpeg" length="0" />
       <itunes:duration>00:15:49</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#113: Bolsonaro fura o teto</title>
       <pubDate>Fri, 14 Aug 2020 14:00:00 +0000</pubDate>
-      <description>Originally aired 2020-08-14.</description>
+      <description>Ao ar originalmente em 2020-08-14.</description>
       <guid isPermaLink="false">9cfc5b0f-f687-4863-afae-65476aacf4b2</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3015040064.mp3?updated=1712612367" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:52</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#164: Bolsonaro abandona seus caninos</title>
       <pubDate>Fri, 20 Aug 2021 13:36:00 +0000</pubDate>
-      <description>Originally aired 2021-08-20.</description>
+      <description>Ao ar originalmente em 2021-08-20.</description>
       <guid isPermaLink="false">8a3babe8-4cf2-48c0-a2c1-6bb3ddbe03e6</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6479245280.mp3?updated=1712346530" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:06</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>#214: Deus, o cabo eleitoral</title>
       <pubDate>Fri, 19 Aug 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-08-19.</description>
+      <description>Ao ar originalmente em 2022-08-19.</description>
       <guid isPermaLink="false">53668a30-2458-4251-9557-196f0522b430</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6729557586.mp3?updated=1712263939" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:21</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>#3 O xerife</title>
       <pubDate>Mon, 14 Aug 2023 04:00:02 +0000</pubDate>
-      <description>Originally aired 2023-08-14.</description>
+      <description>Ao ar originalmente em 2023-08-14.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/56431883</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2977076459.mp3?updated=1698090462" type="audio/mpeg" length="0" />
       <itunes:duration>00:00:23</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>#266: Militares em crise</title>
       <pubDate>Fri, 18 Aug 2023 13:45:02 +0000</pubDate>
-      <description>Originally aired 2023-08-18.</description>
+      <description>Ao ar originalmente em 2023-08-18.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/56512119</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2168746168.mp3?updated=1698090461" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:00</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>Kamala, Xandão e Delfim Netto</title>
       <pubDate>Fri, 16 Aug 2024 13:19:58 +0000</pubDate>
-      <description>Originally aired 2024-08-16.</description>
+      <description>Ao ar originalmente em 2024-08-16.</description>
       <guid isPermaLink="false">5bcc13ce-5bcc-11ef-bf82-53da9d0b550a</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6406931359.mp3?updated=1723814706" type="audio/mpeg" length="0" />
       <itunes:duration>01:05:11</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>A reação ao tarifaço, o rescaldo do motim e o algoritmo da pedofilia</title>
       <pubDate>Fri, 15 Aug 2025 13:03:00 +0000</pubDate>
-      <description>Originally aired 2025-08-15.</description>
+      <description>Ao ar originalmente em 2025-08-15.</description>
       <guid isPermaLink="false">3040de6c-79d8-11f0-868c-ff0cf2ac1221</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4900663745.mp3?updated=1755264257" type="audio/mpeg" length="0" />
       <itunes:duration>01:10:34</itunes:duration>

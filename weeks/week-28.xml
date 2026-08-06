@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 28 of the Year</title>
+    <title>Foro de Teresina — Semana 28 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 28, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 28 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 28 of the Year</title>
+      <title>Foro de Teresina — Semana 28 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#9: Comédia judicial, ponto para o PT e a bênção de Crivella</title>
       <pubDate>Thu, 12 Jul 2018 20:04:00 +0000</pubDate>
-      <description>Originally aired 2018-07-12.</description>
+      <description>Ao ar originalmente em 2018-07-12.</description>
       <guid isPermaLink="false">b6ad37e9694641f0928559ef1775718d</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3712105987.mp3?updated=1713282244" type="audio/mpeg" length="0" />
       <itunes:duration>00:43:42</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#59: A popularidade de Bolsonaro, o Congresso após a Previdência e o espólio de Moro</title>
       <pubDate>Thu, 11 Jul 2019 19:45:00 +0000</pubDate>
-      <description>Originally aired 2019-07-11.</description>
+      <description>Ao ar originalmente em 2019-07-11.</description>
       <guid isPermaLink="false">44a32c437b45490a95003ef1eb109271</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1516540463.mp3?updated=1712700394" type="audio/mpeg" length="0" />
       <itunes:duration>00:57:32</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #30: Imunidade invisível</title>
       <pubDate>Mon, 06 Jul 2020 12:16:16 +0000</pubDate>
-      <description>Originally aired 2020-07-06.</description>
+      <description>Ao ar originalmente em 2020-07-06.</description>
       <guid isPermaLink="false">177eeb2b-4c01-4eda-8399-bc9ee0e25ac4</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP5098883999.mp3?updated=1698090663" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:21</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Luz no fim da quarentena #31: Testes que não passam no teste</title>
       <pubDate>Thu, 09 Jul 2020 09:30:00 +0000</pubDate>
-      <description>Originally aired 2020-07-09.</description>
+      <description>Ao ar originalmente em 2020-07-09.</description>
       <guid isPermaLink="false">da17d063-196f-4bc3-8ceb-2d578383cd1e</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9139682427.mp3?updated=1698090662" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:58</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#108: O vírus bolsonarista</title>
       <pubDate>Fri, 10 Jul 2020 13:50:00 +0000</pubDate>
-      <description>Originally aired 2020-07-10.</description>
+      <description>Ao ar originalmente em 2020-07-10.</description>
       <guid isPermaLink="false">04fc2986-b00b-4408-a2d5-3966eb10431c</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6358094105.mp3?updated=1712672775" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:21</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#159: Militares blefam, civis pagam pra ver</title>
       <pubDate>Fri, 16 Jul 2021 13:27:00 +0000</pubDate>
-      <description>Originally aired 2021-07-16.</description>
+      <description>Ao ar originalmente em 2021-07-16.</description>
       <guid isPermaLink="false">109a63f6-d5c4-4f1f-824e-eee386653e69</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4644887725.mp3?updated=1712595535" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:56</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>#209: Milicianismo, bala e voto</title>
       <pubDate>Fri, 15 Jul 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-07-15.</description>
+      <description>Ao ar originalmente em 2022-07-15.</description>
       <guid isPermaLink="false">38b976b2-61f0-4c3c-a6fa-3430b22c7b00</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP5569357497.mp3?updated=1698090522" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:58</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>#261: Um banquinho, um violão</title>
       <pubDate>Fri, 14 Jul 2023 13:45:02 +0000</pubDate>
-      <description>Originally aired 2023-07-14.</description>
+      <description>Ao ar originalmente em 2023-07-14.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/56101201</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6966370281.mp3?updated=1698090470" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:44</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>Joias, pérolas e eleições</title>
       <pubDate>Fri, 12 Jul 2024 13:00:00 +0000</pubDate>
-      <description>Originally aired 2024-07-12.</description>
+      <description>Ao ar originalmente em 2024-07-12.</description>
       <guid isPermaLink="false">44e99cfe-404b-11ef-ba53-73339ef55c03</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4919205158.mp3?updated=1721394372" type="audio/mpeg" length="0" />
       <itunes:duration>01:05:01</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>O tarifaço e a jogatina</title>
       <pubDate>Fri, 11 Jul 2025 13:18:00 +0000</pubDate>
-      <description>Originally aired 2025-07-11.</description>
+      <description>Ao ar originalmente em 2025-07-11.</description>
       <guid isPermaLink="false">932756b8-5e59-11f0-9cbf-c710d8d686fe</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6505309222.mp3?updated=1752241757" type="audio/mpeg" length="0" />
       <itunes:duration>01:05:47</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>O vexame de Flávio, a devassa no Rio e o fiasco de Trump</title>
       <pubDate>Fri, 10 Jul 2026 12:51:00 +0000</pubDate>
-      <description>Originally aired 2026-07-10.</description>
+      <description>Ao ar originalmente em 2026-07-10.</description>
       <guid isPermaLink="false">16694568-7c5e-11f1-812f-ebe4cf84bd87</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7304315640.mp3" type="audio/mpeg" length="0" />
       <itunes:duration>01:11:34</itunes:duration>

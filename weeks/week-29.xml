@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 29 of the Year</title>
+    <title>Foro de Teresina — Semana 29 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 29, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 29 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 29 of the Year</title>
+      <title>Foro de Teresina — Semana 29 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#10: O nome da noiva, a renovação que não virá e o custo-Temer</title>
       <pubDate>Thu, 19 Jul 2018 21:49:00 +0000</pubDate>
-      <description>Originally aired 2018-07-19.</description>
+      <description>Ao ar originalmente em 2018-07-19.</description>
       <guid isPermaLink="false">9bceebc2ebdf4c5989295e7846a333eb</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9892233581.mp3?updated=1713281925" type="audio/mpeg" length="0" />
       <itunes:duration>00:42:11</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#60: A canetada de Toffoli, a chapa de Eduardo e o cachê de Dallagnol</title>
       <pubDate>Thu, 18 Jul 2019 19:45:00 +0000</pubDate>
-      <description>Originally aired 2019-07-18.</description>
+      <description>Ao ar originalmente em 2019-07-18.</description>
       <guid isPermaLink="false">ebba6d7155b94ed8b7736a7ec1ad2d60</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2215728477.mp3?updated=1712700260" type="audio/mpeg" length="0" />
       <itunes:duration>00:51:08</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #32: Heterogeneidade ajuda a imunidade</title>
       <pubDate>Mon, 13 Jul 2020 18:49:29 +0000</pubDate>
-      <description>Originally aired 2020-07-13.</description>
+      <description>Ao ar originalmente em 2020-07-13.</description>
       <guid isPermaLink="false">97072c6a-5c94-46ee-a7c6-ac7d846d8a5d</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1394566290.mp3?updated=1698090660" type="audio/mpeg" length="0" />
       <itunes:duration>00:17:03</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Luz no fim da quarentena #33: Rastreando bons exemplos</title>
       <pubDate>Thu, 16 Jul 2020 18:39:51 +0000</pubDate>
-      <description>Originally aired 2020-07-16.</description>
+      <description>Ao ar originalmente em 2020-07-16.</description>
       <guid isPermaLink="false">d2e00839-a88c-4b89-97b1-1b884d04918d</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9901978613.mp3?updated=1698090659" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:59</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#109: Bolsonaro, os militares e o rebanho</title>
       <pubDate>Fri, 17 Jul 2020 13:50:00 +0000</pubDate>
-      <description>Originally aired 2020-07-17.</description>
+      <description>Ao ar originalmente em 2020-07-17.</description>
       <guid isPermaLink="false">6a2b7c29-df34-4e66-a852-56947b477381</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP6771586988.mp3?updated=1712672700" type="audio/mpeg" length="0" />
       <itunes:duration>00:59:35</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#160: Arenão toma poder dos militares</title>
       <pubDate>Fri, 23 Jul 2021 13:11:00 +0000</pubDate>
-      <description>Originally aired 2021-07-23.</description>
+      <description>Ao ar originalmente em 2021-07-23.</description>
       <guid isPermaLink="false">ed95d0ba-3b03-419f-a57b-bedc9866bce2</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4476654534.mp3?updated=1712346698" type="audio/mpeg" length="0" />
       <itunes:duration>00:59:18</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>#210: O circo do golpe</title>
       <pubDate>Fri, 22 Jul 2022 13:43:00 +0000</pubDate>
-      <description>Originally aired 2022-07-22.</description>
+      <description>Ao ar originalmente em 2022-07-22.</description>
       <guid isPermaLink="false">6a28a2ea-e872-46ca-abd2-bd1c72baef10</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3272534298.mp3?updated=1698090521" type="audio/mpeg" length="0" />
       <itunes:duration>00:56:53</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>#262: O equilibrismo de Xandão</title>
       <pubDate>Fri, 21 Jul 2023 13:45:01 +0000</pubDate>
-      <description>Originally aired 2023-07-21.</description>
+      <description>Ao ar originalmente em 2023-07-21.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/56176598</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2568629915.mp3?updated=1698090469" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:10</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>Violência americana e violências brasileiras</title>
       <pubDate>Fri, 19 Jul 2024 12:42:00 +0000</pubDate>
-      <description>Originally aired 2024-07-19.</description>
+      <description>Ao ar originalmente em 2024-07-19.</description>
       <guid isPermaLink="false">423f2254-45cc-11ef-be2c-83aca22bbb6d</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2508244573.mp3?updated=1721394565" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:42</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>A tarifa de Trump, o impasse da direita e a volta de Lula</title>
       <pubDate>Fri, 18 Jul 2025 13:08:00 +0000</pubDate>
-      <description>Originally aired 2025-07-18.</description>
+      <description>Ao ar originalmente em 2025-07-18.</description>
       <guid isPermaLink="false">4dd2c050-63d8-11f0-a90a-9bf5507a2850</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU9156084514.mp3?updated=1753925119" type="audio/mpeg" length="0" />
       <itunes:duration>01:06:05</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>O tarifaço, o amigo do Sicário e a confusão mineira</title>
       <pubDate>Fri, 17 Jul 2026 12:30:00 +0000</pubDate>
-      <description>Originally aired 2026-07-17.</description>
+      <description>Ao ar originalmente em 2026-07-17.</description>
       <guid isPermaLink="false">55d13cec-81db-11f1-9d75-07de4a42b019</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5539110028.mp3" type="audio/mpeg" length="0" />
       <itunes:duration>01:12:10</itunes:duration>

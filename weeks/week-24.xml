@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 24 of the Year</title>
+    <title>Foro de Teresina — Semana 24 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 24, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 24 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 24 of the Year</title>
+      <title>Foro de Teresina — Semana 24 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#5: Epidemia de homicídios, o fracasso da vacina e a Copa da fisiologia</title>
       <pubDate>Thu, 14 Jun 2018 19:45:00 +0000</pubDate>
-      <description>Originally aired 2018-06-14.</description>
+      <description>Ao ar originalmente em 2018-06-14.</description>
       <guid isPermaLink="false">0fc37e4a804d4c9c8ddf9f654d53cc99</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9150931371.mp3?updated=1713282553" type="audio/mpeg" length="0" />
       <itunes:duration>00:43:36</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#55: Os vazamentos da Lava Jato, suas consequências, e o meio ambiente no governo Bolsonaro</title>
       <pubDate>Thu, 13 Jun 2019 19:57:00 +0000</pubDate>
-      <description>Originally aired 2019-06-13.</description>
+      <description>Ao ar originalmente em 2019-06-13.</description>
       <guid isPermaLink="false">fd2f1f38fabd45e9a8101cfb6c8caf92</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP1494749447.mp3?updated=1712701425" type="audio/mpeg" length="0" />
       <itunes:duration>01:03:17</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #22: Detetives da epidemia</title>
       <pubDate>Tue, 09 Jun 2020 09:30:00 +0000</pubDate>
-      <description>Originally aired 2020-06-09.</description>
+      <description>Ao ar originalmente em 2020-06-09.</description>
       <guid isPermaLink="false">874df313-8726-45e8-bf53-74bd28caaf7e</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP8725815585.mp3?updated=1698090675" type="audio/mpeg" length="0" />
       <itunes:duration>00:18:32</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Luz no fim da quarentena #23: Como rastrear o vírus você mesmo</title>
       <pubDate>Thu, 11 Jun 2020 17:45:18 +0000</pubDate>
-      <description>Originally aired 2020-06-11.</description>
+      <description>Ao ar originalmente em 2020-06-11.</description>
       <guid isPermaLink="false">27d26e3d-96e0-456f-b665-337ad32c0a03</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4604722114.mp3?updated=1698090674" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:34</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#104: As maquiagens de Bolsonaro</title>
       <pubDate>Fri, 12 Jun 2020 13:55:00 +0000</pubDate>
-      <description>Originally aired 2020-06-12.</description>
+      <description>Ao ar originalmente em 2020-06-12.</description>
       <guid isPermaLink="false">03cb99d5-f123-4d72-ae0a-14182d4ea804</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9977835021.mp3?updated=1712674697" type="audio/mpeg" length="0" />
       <itunes:duration>01:02:31</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#155: O apagão de Bolsonaro</title>
       <pubDate>Fri, 18 Jun 2021 13:28:00 +0000</pubDate>
-      <description>Originally aired 2021-06-18.</description>
+      <description>Ao ar originalmente em 2021-06-18.</description>
       <guid isPermaLink="false">61564644-75d9-4fef-9b53-778a7a854444</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9402159761.mp3?updated=1712598118" type="audio/mpeg" length="0" />
       <itunes:duration>01:03:31</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>#205: Pelados em Brasília</title>
       <pubDate>Fri, 17 Jun 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-06-17.</description>
+      <description>Ao ar originalmente em 2022-06-17.</description>
       <guid isPermaLink="false">79a5f9b7-e6a6-45cb-b04a-ef10fc7a45f7</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2417111390.mp3?updated=1712265127" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:37</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>#257: O ministro que escapou do tiroteio</title>
       <pubDate>Fri, 16 Jun 2023 13:45:00 +0000</pubDate>
-      <description>Originally aired 2023-06-16.</description>
+      <description>Ao ar originalmente em 2023-06-16.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/54458743</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP5198767809.mp3?updated=1712255528" type="audio/mpeg" length="0" />
       <itunes:duration>00:56:50</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>#5 Escrever o Brasil | Desiguais</title>
       <pubDate>Wed, 12 Jun 2024 12:38:37 +0000</pubDate>
-      <description>Originally aired 2024-06-12.</description>
+      <description>Ao ar originalmente em 2024-06-12.</description>
       <guid isPermaLink="false">b5a4884c-2835-11ef-9d83-270a28b8e682</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2299280783.mp3?updated=1718196354" type="audio/mpeg" length="0" />
       <itunes:duration>00:31:47</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>Aborto, Trump e a cilada brasileira</title>
       <pubDate>Fri, 14 Jun 2024 13:45:00 +0000</pubDate>
-      <description>Originally aired 2024-06-14.</description>
+      <description>Ao ar originalmente em 2024-06-14.</description>
       <guid isPermaLink="false">59471ef0-2a49-11ef-b6c9-2f7369881948</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7932069421.mp3?updated=1718370231" type="audio/mpeg" length="0" />
       <itunes:duration>01:02:42</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>Cenas de um julgamento e a chanchada do Congresso</title>
       <pubDate>Fri, 13 Jun 2025 12:44:00 +0000</pubDate>
-      <description>Originally aired 2025-06-13.</description>
+      <description>Ao ar originalmente em 2025-06-13.</description>
       <guid isPermaLink="false">349984ba-4854-11f0-ae41-83fd1e92ac74</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU9094683370.mp3?updated=1749820359" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:14</itunes:duration>
@@ -115,7 +115,7 @@
     <item>
       <title>Os caminhos do mapa - um áudio-documentário sobre a COP 30</title>
       <pubDate>Tue, 09 Jun 2026 13:00:00 +0000</pubDate>
-      <description>Originally aired 2026-06-09.</description>
+      <description>Ao ar originalmente em 2026-06-09.</description>
       <guid isPermaLink="false">476c4510-5adb-11f1-b933-2fe4fe815d2f</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1436752609.mp3" type="audio/mpeg" length="0" />
       <itunes:duration>01:03:31</itunes:duration>

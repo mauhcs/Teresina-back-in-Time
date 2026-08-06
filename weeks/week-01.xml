@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 01 of the Year</title>
+    <title>Foro de Teresina — Semana 01 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 01, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 01 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 01 of the Year</title>
+      <title>Foro de Teresina — Semana 01 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#33: A posse de Bolsonaro, a posse de armas e a dura vida dos estados</title>
       <pubDate>Thu, 03 Jan 2019 18:46:00 +0000</pubDate>
-      <description>Originally aired 2019-01-03.</description>
+      <description>Ao ar originalmente em 2019-01-03.</description>
       <guid isPermaLink="false">d58e0d3e65374bf6b3d3af1a1816654a</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7132064778.mp3?updated=1713205696" type="audio/mpeg" length="0" />
       <itunes:duration>00:45:51</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#132: Presidente mimimi</title>
       <pubDate>Fri, 08 Jan 2021 14:00:00 +0000</pubDate>
-      <description>Originally aired 2021-01-08.</description>
+      <description>Ao ar originalmente em 2021-01-08.</description>
       <guid isPermaLink="false">1ba4118b-af79-4a14-889d-8ce3282d9df6</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP5637441541.mp3?updated=1712604778" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:00</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>#182: A negligência do atirador de facas</title>
       <pubDate>Fri, 07 Jan 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-01-07.</description>
+      <description>Ao ar originalmente em 2022-01-07.</description>
       <guid isPermaLink="false">e66b1924-e3f7-44ac-830e-e56fa5e2c727</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9666435864.mp3?updated=1712342933" type="audio/mpeg" length="0" />
       <itunes:duration>01:02:05</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>#234: Lula 3 - Materiais de construção</title>
       <pubDate>Fri, 06 Jan 2023 13:43:00 +0000</pubDate>
-      <description>Originally aired 2023-01-06.</description>
+      <description>Ao ar originalmente em 2023-01-06.</description>
       <guid isPermaLink="false">940edaa0-9b36-4db3-9454-35a7b7dffe92</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2004027613.mp3?updated=1712260958" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:26</itunes:duration>

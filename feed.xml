@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 32 of the Year</title>
+    <title>Foro de Teresina — Semana 32 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 32, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 32 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 32 of the Year</title>
+      <title>Foro de Teresina — Semana 32 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#13: As vices mulheres, o embate Alckmin x Bolsonaro, e o xeque-mate de Lula</title>
       <pubDate>Thu, 09 Aug 2018 19:50:00 +0000</pubDate>
-      <description>Originally aired 2018-08-09.</description>
+      <description>Ao ar originalmente em 2018-08-09.</description>
       <guid isPermaLink="false">9bc5b5bdc66d4bc49b033623984e66c0</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3033127875.mp3?updated=1713281140" type="audio/mpeg" length="0" />
       <itunes:duration>00:45:17</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#63: A grande família Bolsonaro, o Congresso e os impostos, o STF contra a Lava Jato</title>
       <pubDate>Thu, 08 Aug 2019 19:45:00 +0000</pubDate>
-      <description>Originally aired 2019-08-08.</description>
+      <description>Ao ar originalmente em 2019-08-08.</description>
       <guid isPermaLink="false">54a075755612459b80e006009f55fabf</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7872737033.mp3?updated=1712699927" type="audio/mpeg" length="0" />
       <itunes:duration>00:53:55</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #38: Resposta a uma certa carta aberta</title>
       <pubDate>Mon, 03 Aug 2020 21:14:22 +0000</pubDate>
-      <description>Originally aired 2020-08-03.</description>
+      <description>Ao ar originalmente em 2020-08-03.</description>
       <guid isPermaLink="false">edbdad76-cf0a-4d35-bbc9-237704be2b7b</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4383185323.mp3?updated=1698090652" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:19</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Luz no fim da quarentena #39: Máscara reduz seu risco e do outro</title>
       <pubDate>Thu, 06 Aug 2020 18:56:29 +0000</pubDate>
-      <description>Originally aired 2020-08-06.</description>
+      <description>Ao ar originalmente em 2020-08-06.</description>
       <guid isPermaLink="false">47046d3f-1899-42f6-9768-7727a2702f85</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4310778066.mp3?updated=1698090651" type="audio/mpeg" length="0" />
       <itunes:duration>00:16:45</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#112: A metamorfose de Bolsonaro</title>
       <pubDate>Fri, 07 Aug 2020 13:50:00 +0000</pubDate>
-      <description>Originally aired 2020-08-07.</description>
+      <description>Ao ar originalmente em 2020-08-07.</description>
       <guid isPermaLink="false">010d3fb7-a278-4329-aedd-db988ff41013</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7408446657.mp3?updated=1712612611" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:32</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>#163: Bolsonaro engolido pela própria fumaça</title>
       <pubDate>Fri, 13 Aug 2021 13:38:00 +0000</pubDate>
-      <description>Originally aired 2021-08-13.</description>
+      <description>Ao ar originalmente em 2021-08-13.</description>
       <guid isPermaLink="false">d0d70e63-540a-4a08-b05e-1a22b8876aa8</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9040133484.mp3?updated=1712346570" type="audio/mpeg" length="0" />
       <itunes:duration>01:01:19</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>Ouça o convite de Bernardo Esteves</title>
       <pubDate>Tue, 09 Aug 2022 09:00:00 +0000</pubDate>
-      <description>Originally aired 2022-08-09.</description>
+      <description>Ao ar originalmente em 2022-08-09.</description>
       <guid isPermaLink="false">73e52dc8-f3f8-446a-9d80-3927434c1cb6</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4356169029.mp3?updated=1698090519" type="audio/mpeg" length="0" />
       <itunes:duration>00:02:50</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>#213: Democracia, milícia e os golpes de Bolsonaro</title>
       <pubDate>Fri, 12 Aug 2022 13:06:00 +0000</pubDate>
-      <description>Originally aired 2022-08-12.</description>
+      <description>Ao ar originalmente em 2022-08-12.</description>
       <guid isPermaLink="false">643162ef-ddf7-42e1-8696-934802d898d3</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP8293551417.mp3?updated=1712264000" type="audio/mpeg" length="0" />
       <itunes:duration>00:58:59</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>#2 O animal político</title>
       <pubDate>Mon, 07 Aug 2023 03:05:01 +0000</pubDate>
-      <description>Originally aired 2023-08-07.</description>
+      <description>Ao ar originalmente em 2023-08-07.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/56388109</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP8130029331.mp3?updated=1698090464" type="audio/mpeg" length="0" />
       <itunes:duration>00:00:36</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>#265: Polícia contra polícia</title>
       <pubDate>Fri, 11 Aug 2023 13:45:01 +0000</pubDate>
-      <description>Originally aired 2023-08-11.</description>
+      <description>Ao ar originalmente em 2023-08-11.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/56439317</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2833553071.mp3?updated=1698090463" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:53</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>A fúria dos mercados, a fraude das emendas e a farsa de Maduro</title>
       <pubDate>Fri, 09 Aug 2024 13:30:00 +0000</pubDate>
-      <description>Originally aired 2024-08-09.</description>
+      <description>Ao ar originalmente em 2024-08-09.</description>
       <guid isPermaLink="false">8549ed5c-564a-11ef-94c4-b726418ad892</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU8900742232.mp3?updated=1723208729" type="audio/mpeg" length="0" />
       <itunes:duration>00:57:09</itunes:duration>
@@ -115,7 +115,7 @@
     <item>
       <title> A prisão de Bolsonaro e os sequestradores da democracia</title>
       <pubDate>Fri, 08 Aug 2025 12:50:00 +0000</pubDate>
-      <description>Originally aired 2025-08-08.</description>
+      <description>Ao ar originalmente em 2025-08-08.</description>
       <guid isPermaLink="false">38ce32dc-7456-11f0-8814-3770b25a59ef</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1529231324.mp3?updated=1754660463" type="audio/mpeg" length="0" />
       <itunes:duration>01:11:27</itunes:duration>
@@ -124,7 +124,7 @@
     <item>
       <title>O Berro do Boi #2. A engorda</title>
       <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
-      <description>Originally aired 2026-08-04.</description>
+      <description>Ao ar originalmente em 2026-08-04.</description>
       <guid isPermaLink="false">ea3762b2-8f8c-11f1-81f4-3bb0a60f6df6</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2771142710.mp3" type="audio/mpeg" length="0" />
       <itunes:duration>00:33:20</itunes:duration>

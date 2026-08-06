@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Week 26 of the Year</title>
+    <title>Foro de Teresina — Semana 26 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 26, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 26 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Week 26 of the Year</title>
+      <title>Foro de Teresina — Semana 26 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
       <title>#7: Racha no Supremo, o namoro de Bolsonaro e o junho sem fim</title>
       <pubDate>Thu, 28 Jun 2018 19:49:00 +0000</pubDate>
-      <description>Originally aired 2018-06-28.</description>
+      <description>Ao ar originalmente em 2018-06-28.</description>
       <guid isPermaLink="false">13044626891c45cda4063e120a53774f</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4920369556.mp3?updated=1713282480" type="audio/mpeg" length="0" />
       <itunes:duration>00:44:14</itunes:duration>
@@ -25,7 +25,7 @@
     <item>
       <title>#57: Lula fica preso, Bolsonaro sai em campanha e Congresso vai para a ofensiva</title>
       <pubDate>Thu, 27 Jun 2019 20:00:00 +0000</pubDate>
-      <description>Originally aired 2019-06-27.</description>
+      <description>Ao ar originalmente em 2019-06-27.</description>
       <guid isPermaLink="false">36808b2ffb06453ba3bf500b30a6c22d</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2139214613.mp3?updated=1712700951" type="audio/mpeg" length="0" />
       <itunes:duration>00:54:20</itunes:duration>
@@ -34,7 +34,7 @@
     <item>
       <title>Luz no fim da quarentena #26: SARS-CoV-2 não gosta de criança</title>
       <pubDate>Mon, 22 Jun 2020 09:30:00 +0000</pubDate>
-      <description>Originally aired 2020-06-22.</description>
+      <description>Ao ar originalmente em 2020-06-22.</description>
       <guid isPermaLink="false">babc0325-2a8e-4fa1-a8a0-981246efe696</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2266858703.mp3?updated=1698090670" type="audio/mpeg" length="0" />
       <itunes:duration>00:15:29</itunes:duration>
@@ -43,7 +43,7 @@
     <item>
       <title>Luz no fim da quarentena #27: Anticorpos não são eternos</title>
       <pubDate>Thu, 25 Jun 2020 09:30:00 +0000</pubDate>
-      <description>Originally aired 2020-06-25.</description>
+      <description>Ao ar originalmente em 2020-06-25.</description>
       <guid isPermaLink="false">23d49f41-c7fa-4970-aa6b-f66cc34f6ab9</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP4527514644.mp3?updated=1698090668" type="audio/mpeg" length="0" />
       <itunes:duration>00:17:38</itunes:duration>
@@ -52,7 +52,7 @@
     <item>
       <title>#106: O presidente acuado</title>
       <pubDate>Fri, 26 Jun 2020 13:55:00 +0000</pubDate>
-      <description>Originally aired 2020-06-26.</description>
+      <description>Ao ar originalmente em 2020-06-26.</description>
       <guid isPermaLink="false">50453338-9536-4c8f-a92f-7530d9130506</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP2301108254.mp3?updated=1712673706" type="audio/mpeg" length="0" />
       <itunes:duration>00:59:33</itunes:duration>
@@ -61,7 +61,7 @@
     <item>
       <title>Foro de Teresina especial de aniversário: 3 anos</title>
       <pubDate>Wed, 30 Jun 2021 21:06:00 +0000</pubDate>
-      <description>Originally aired 2021-06-30.</description>
+      <description>Ao ar originalmente em 2021-06-30.</description>
       <guid isPermaLink="false">5f6ff999-64b4-4ca2-99b5-bf0709fbca8e</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP3241865232.mp3?updated=1712598011" type="audio/mpeg" length="0" />
       <itunes:duration>01:12:00</itunes:duration>
@@ -70,7 +70,7 @@
     <item>
       <title>#157: Vacina custa caro a Bolsonaro</title>
       <pubDate>Fri, 02 Jul 2021 13:30:00 +0000</pubDate>
-      <description>Originally aired 2021-07-02.</description>
+      <description>Ao ar originalmente em 2021-07-02.</description>
       <guid isPermaLink="false">953377d4-3a40-4716-8843-ec1fce09734f</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP8302873390.mp3?updated=1712597923" type="audio/mpeg" length="0" />
       <itunes:duration>00:59:52</itunes:duration>
@@ -79,7 +79,7 @@
     <item>
       <title>#207: Voto impresso em papel-moeda</title>
       <pubDate>Fri, 01 Jul 2022 13:50:00 +0000</pubDate>
-      <description>Originally aired 2022-07-01.</description>
+      <description>Ao ar originalmente em 2022-07-01.</description>
       <guid isPermaLink="false">dce64030-0a1a-43fc-a789-f3da2a6992fc</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP9844664106.mp3?updated=1712264909" type="audio/mpeg" length="0" />
       <itunes:duration>00:54:46</itunes:duration>
@@ -88,7 +88,7 @@
     <item>
       <title>#259: O espocar dos votos no TSE</title>
       <pubDate>Fri, 30 Jun 2023 14:00:02 +0000</pubDate>
-      <description>Originally aired 2023-06-30.</description>
+      <description>Ao ar originalmente em 2023-06-30.</description>
       <guid isPermaLink="false">https://api.spreaker.com/episode/55603012</guid>
       <enclosure url="https://traffic.megaphone.fm/NPP7833455877.mp3?updated=1698090472" type="audio/mpeg" length="0" />
       <itunes:duration>01:00:07</itunes:duration>
@@ -97,7 +97,7 @@
     <item>
       <title>As drogas, as fortunas e as queimadas</title>
       <pubDate>Fri, 28 Jun 2024 13:45:00 +0000</pubDate>
-      <description>Originally aired 2024-06-28.</description>
+      <description>Ao ar originalmente em 2024-06-28.</description>
       <guid isPermaLink="false">778eae86-3549-11ef-9df2-ab7d373d08bb</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU3048280342.mp3?updated=1719579199" type="audio/mpeg" length="0" />
       <itunes:duration>01:04:41</itunes:duration>
@@ -106,7 +106,7 @@
     <item>
       <title>Uma derrota histórica, o cessar-fogo e o tête-à-tête dos golpistas</title>
       <pubDate>Fri, 27 Jun 2025 12:52:00 +0000</pubDate>
-      <description>Originally aired 2025-06-27.</description>
+      <description>Ao ar originalmente em 2025-06-27.</description>
       <guid isPermaLink="false">a5595048-5355-11f0-841e-8be24adeaaeb</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7777399641.mp3?updated=1751030981" type="audio/mpeg" length="0" />
       <itunes:duration>01:03:28</itunes:duration>
@@ -115,7 +115,7 @@
     <item>
       <title>A cartada de Michelle, o revés de Flávio e o avanço da direita no continente </title>
       <pubDate>Fri, 26 Jun 2026 12:32:00 +0000</pubDate>
-      <description>Originally aired 2026-06-26.</description>
+      <description>Ao ar originalmente em 2026-06-26.</description>
       <guid isPermaLink="false">3fa761a4-7159-11f1-b6e1-838ac8b3ef9f</guid>
       <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5832541662.mp3" type="audio/mpeg" length="0" />
       <itunes:duration>01:07:27</itunes:duration>
