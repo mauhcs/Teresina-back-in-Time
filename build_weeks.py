@@ -65,7 +65,7 @@ def build_week_rss(week_num, episodes_for_week):
             dt = dt.replace(tzinfo=timezone.utc)
         ET.SubElement(item, "pubDate").text = format_datetime(dt)
         ET.SubElement(item, "description").text = (
-            f"Ao ar originalmente em {ep['pubDate'][:10]}."
+            f"Data original {dt.strftime('%d-%m-%Y')}."
         )
         guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
         guid.text = ep["guid"]
