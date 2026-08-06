@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 16 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 16, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 16 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#47: Bolsonaro joga diesel na crise, deputada é ameaçada, e STF embarca na censura</title>
+      <pubDate>Thu, 18 Apr 2019 19:38:00 +0000</pubDate>
+      <description>Originally aired 2019-04-18.</description>
+      <guid isPermaLink="false">2b2edd086e7943c98758d69dd0a9dcca</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8156329384.mp3?updated=1713194742" type="audio/mpeg" length="0" />
+      <itunes:duration>00:52:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #5: retardo fatal</title>
+      <pubDate>Tue, 14 Apr 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-04-14.</description>
+      <guid isPermaLink="false">5faac636-7c7b-415b-ad18-75d852be5c53</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9451748117.mp3?updated=1698090706" type="audio/mpeg" length="0" />
+      <itunes:duration>00:14:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#96: Um combate no escuro, a queda de Mandetta e confusão na economia</title>
+      <pubDate>Thu, 16 Apr 2020 19:31:00 +0000</pubDate>
+      <description>Originally aired 2020-04-16.</description>
+      <guid isPermaLink="false">3ee986af-7dd6-4936-aa35-3fce607253b2</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6506523342.mp3?updated=1712685381" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #6: três caminhos, nenhum atalho</title>
+      <pubDate>Fri, 17 Apr 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-04-17.</description>
+      <guid isPermaLink="false">8c3fa9ee-45cf-4327-a62d-ce84d2cf47bb</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7598583441.mp3?updated=1698090704" type="audio/mpeg" length="0" />
+      <itunes:duration>00:15:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#147: Os madeireiros, os caras de pau e as chantagens</title>
+      <pubDate>Fri, 23 Apr 2021 13:18:00 +0000</pubDate>
+      <description>Originally aired 2021-04-23.</description>
+      <guid isPermaLink="false">453be92f-5c52-4131-9218-c121b304ba66</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3874036842.mp3?updated=1712601223" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#197: Bolsonaro e as sombras</title>
+      <pubDate>Fri, 22 Apr 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-04-22.</description>
+      <guid isPermaLink="false">7717fa4e-784a-4945-84aa-5a26cb14d354</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8093706304.mp3?updated=1712268559" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#249: Enodado pela boca</title>
+      <pubDate>Fri, 21 Apr 2023 13:45:01 +0000</pubDate>
+      <description>Originally aired 2023-04-21.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53604036</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6138518104.mp3?updated=1698090482" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Drogas ilegais, drogas legais e juízes sem juízo</title>
+      <pubDate>Fri, 19 Apr 2024 13:40:00 +0000</pubDate>
+      <description>Originally aired 2024-04-19.</description>
+      <guid isPermaLink="false">2e4dd32c-fe4a-11ee-bebc-530eda7de30e</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6014245095.mp3?updated=1713533167" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title> A anistia, o cerco de Trump às universidades e o caso Glauber</title>
+      <pubDate>Fri, 18 Apr 2025 12:23:00 +0000</pubDate>
+      <description>Originally aired 2025-04-18.</description>
+      <guid isPermaLink="false">e6ebbe16-1c4f-11f0-bfe5-fb0a051420a3</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1422527726.mp3?updated=1744979846" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O relatório da CPI, a candidatura do PSDB e a eleição na Hungria</title>
+      <pubDate>Fri, 17 Apr 2026 13:07:00 +0000</pubDate>
+      <description>Originally aired 2026-04-17.</description>
+      <guid isPermaLink="false">5905b268-3a5e-11f1-a86a-af1699143d0b</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1680164015.mp3?updated=1776435164" type="audio/mpeg" length="0" />
+      <itunes:duration>01:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

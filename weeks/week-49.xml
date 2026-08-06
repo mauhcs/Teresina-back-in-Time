@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 49 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 49, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 49 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>Ao vivo no Festival: Os militares crescem, o primeiro teste de Janaina e a encruzilhada da oposição</title>
+      <pubDate>Tue, 04 Dec 2018 01:47:00 +0000</pubDate>
+      <description>Originally aired 2018-12-04.</description>
+      <guid isPermaLink="false">f1e0cb2936cf4528bcbfd75c66801249</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5033140735.mp3?updated=1713207969" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#30: A briga pelo Senado, os generais de Bolsonaro e a política do futebol</title>
+      <pubDate>Thu, 06 Dec 2018 18:51:00 +0000</pubDate>
+      <description>Originally aired 2018-12-06.</description>
+      <guid isPermaLink="false">b60e110ed7b445e680b2bf7f9e66a51d</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3919101925.mp3?updated=1713207909" type="audio/mpeg" length="0" />
+      <itunes:duration>00:39:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#80: A tragédia em Paraisópolis, o desaforo de Trump e a cultura do desaforo</title>
+      <pubDate>Thu, 05 Dec 2019 19:45:00 +0000</pubDate>
+      <description>Originally aired 2019-12-05.</description>
+      <guid isPermaLink="false">0995f59c-f59d-403b-957b-5c04f9fd364e</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4884666000.mp3?updated=1712695528" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Foro ao vivo no 2º turno: o que concluir das eleições</title>
+      <pubDate>Mon, 30 Nov 2020 12:48:00 +0000</pubDate>
+      <description>Originally aired 2020-11-30.</description>
+      <guid isPermaLink="false">b87f2a62-92a6-49da-9625-4fb06a709e82</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1885090399.mp3?updated=1712606930" type="audio/mpeg" length="0" />
+      <itunes:duration>00:17:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#129: O Brasil na rabeira</title>
+      <pubDate>Fri, 04 Dec 2020 13:36:00 +0000</pubDate>
+      <description>Originally aired 2020-12-04.</description>
+      <guid isPermaLink="false">28874f01-cf42-4b66-8d05-d1b0ecac7154</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5890225284.mp3?updated=1712605758" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep.03 - Vende-se uma Seleção | O Sequestro da Amarelinha</title>
+      <pubDate>Mon, 06 Dec 2021 09:00:00 +0000</pubDate>
+      <description>Originally aired 2021-12-06.</description>
+      <guid isPermaLink="false">a19cea3a-6875-43dd-847b-a502378a8378</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7829891720.mp3?updated=1698090552" type="audio/mpeg" length="0" />
+      <itunes:duration>01:05:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#180: A chance de Lula/Bolsonaro e a vulnerabilidade de Moro</title>
+      <pubDate>Fri, 10 Dec 2021 13:50:00 +0000</pubDate>
+      <description>Originally aired 2021-12-10.</description>
+      <guid isPermaLink="false">cd4d42ec-f699-4aee-9a56-73ebf09fe05b</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6598378167.mp3?updated=1712343100" type="audio/mpeg" length="0" />
+      <itunes:duration>00:56:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#230: Dinheiro acaba antes do governo</title>
+      <pubDate>Fri, 09 Dec 2022 13:43:00 +0000</pubDate>
+      <description>Originally aired 2022-12-09.</description>
+      <guid isPermaLink="false">61159735-eb57-4b09-87b4-9b3a3a8d3b46</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8685888829.mp3?updated=1712261222" type="audio/mpeg" length="0" />
+      <itunes:duration>00:54:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gastos, emendas e mortes</title>
+      <pubDate>Fri, 06 Dec 2024 13:22:00 +0000</pubDate>
+      <description>Originally aired 2024-12-06.</description>
+      <guid isPermaLink="false">2f441b6a-b3d5-11ef-ae57-6b3f9dd194df</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU9299705868.mp3?updated=1733492612" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Poderes em crise, quizilas no clã e o horror contra as mulheres</title>
+      <pubDate>Fri, 05 Dec 2025 13:04:00 +0000</pubDate>
+      <description>Originally aired 2025-12-05.</description>
+      <guid isPermaLink="false">4bd1f47c-d1da-11f0-bdea-0793f8017a6e</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2191070364.mp3?updated=1764941632" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

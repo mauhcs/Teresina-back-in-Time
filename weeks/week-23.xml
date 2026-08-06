@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 23 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 23, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 23 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#4: Um elefante na eleição, o recado do Tocantins e a dança dos números</title>
+      <pubDate>Thu, 07 Jun 2018 19:22:00 +0000</pubDate>
+      <description>Originally aired 2018-06-07.</description>
+      <guid isPermaLink="false">0dbcd5807c0545db9946d59669c9a3e1</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6793074903.mp3?updated=1713227814" type="audio/mpeg" length="0" />
+      <itunes:duration>00:43:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#54: O trânsito de Bolsonaro, o bate-cabeça da oposição e o elogio da agressão</title>
+      <pubDate>Thu, 06 Jun 2019 19:52:00 +0000</pubDate>
+      <description>Originally aired 2019-06-06.</description>
+      <guid isPermaLink="false">df8324616d984890b3376f25cc8b46d3</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9236456135.mp3?updated=1712701531" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #20: Sem recaída</title>
+      <pubDate>Mon, 01 Jun 2020 19:12:28 +0000</pubDate>
+      <description>Originally aired 2020-06-01.</description>
+      <guid isPermaLink="false">da6d1440-89cc-45b3-93ce-921facb4a34f</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7484358644.mp3?updated=1698090678" type="audio/mpeg" length="0" />
+      <itunes:duration>00:15:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #21: Vírus navegador</title>
+      <pubDate>Wed, 03 Jun 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-06-03.</description>
+      <guid isPermaLink="false">c936203a-ccd8-4e09-8e53-0f1974eb5538</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5006075123.mp3?updated=1698090677" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#103: As ameaças contra Bolsonaro</title>
+      <pubDate>Fri, 05 Jun 2020 13:55:00 +0000</pubDate>
+      <description>Originally aired 2020-06-05.</description>
+      <guid isPermaLink="false">6633c7d0-0d34-4e21-9d25-df0e9c28b522</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4466632873.mp3?updated=1712675042" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#154: Boom, bola e bolso</title>
+      <pubDate>Fri, 11 Jun 2021 13:37:00 +0000</pubDate>
+      <description>Originally aired 2021-06-11.</description>
+      <guid isPermaLink="false">96a7d238-29a1-4391-88bd-60ed37128f2c</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1327924272.mp3?updated=1712598188" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#204: O desaparecimento da vergonha</title>
+      <pubDate>Fri, 10 Jun 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-06-10.</description>
+      <guid isPermaLink="false">d7e1fd69-94be-4a38-84d8-d71a210442c0</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7365162586.mp3?updated=1698090526" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#256: Vai que é tua, Lira!</title>
+      <pubDate>Fri, 09 Jun 2023 13:45:01 +0000</pubDate>
+      <description>Originally aired 2023-06-09.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/54156018</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7284150687.mp3?updated=1698090475" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#4 Trabalhar no Brasil | Desiguais</title>
+      <pubDate>Wed, 05 Jun 2024 12:00:00 +0000</pubDate>
+      <description>Originally aired 2024-06-05.</description>
+      <guid isPermaLink="false">edc3ce06-22a7-11ef-9525-57789a376eb1</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU8712674899.mp3?updated=1718655498" type="audio/mpeg" length="0" />
+      <itunes:duration>00:37:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Praias, escolas e outros negócios do centrão</title>
+      <pubDate>Fri, 07 Jun 2024 13:45:00 +0000</pubDate>
+      <description>Originally aired 2024-06-07.</description>
+      <guid isPermaLink="false">049caff2-24ca-11ef-bb69-835a29b48798</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1787259511.mp3?updated=1717765314" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title> A foragida, o ajuste nas contas e os dois patetas</title>
+      <pubDate>Fri, 06 Jun 2025 12:33:00 +0000</pubDate>
+      <description>Originally aired 2025-06-06.</description>
+      <guid isPermaLink="false">6675a9dc-42d2-11f0-aac7-372461418180</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5425217081.mp3?updated=1749214160" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O tarifaço no Brasil e o judiciário em Lisboa</title>
+      <pubDate>Fri, 05 Jun 2026 12:51:00 +0000</pubDate>
+      <description>Originally aired 2026-06-05.</description>
+      <guid isPermaLink="false">37431292-60dd-11f1-aa75-bb7e8e03c085</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1074324078.mp3" type="audio/mpeg" length="0" />
+      <itunes:duration>01:07:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

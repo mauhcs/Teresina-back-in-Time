@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 42 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 42, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 42 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#23: A eleição nos estados, o drama de Haddad e o que esperar de um governo Bolsonaro</title>
+      <pubDate>Thu, 18 Oct 2018 19:50:00 +0000</pubDate>
+      <description>Originally aired 2018-10-18.</description>
+      <guid isPermaLink="false">8a6db063eff5417d8d981c33167cc439</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2523125572.mp3?updated=1713217633" type="audio/mpeg" length="0" />
+      <itunes:duration>00:48:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#73: Autofagia no governo, crise na oposição e o óleo nas praias do Nordeste</title>
+      <pubDate>Thu, 17 Oct 2019 19:46:00 +0000</pubDate>
+      <description>Originally aired 2019-10-17.</description>
+      <guid isPermaLink="false">1ee51ff708944044a0fa44ad399faf1f</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6974514912.mp3?updated=1712698123" type="audio/mpeg" length="0" />
+      <itunes:duration>00:55:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#122: O Rap, o futebol e uma cueca cheia de dinheiro</title>
+      <pubDate>Fri, 16 Oct 2020 14:00:29 +0000</pubDate>
+      <description>Originally aired 2020-10-16.</description>
+      <guid isPermaLink="false">34352813-9578-4cb9-9455-9898c54fadcd</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2341687987.mp3?updated=1698090623" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#173: Bolsonaro fura e Guedes bate no teto</title>
+      <pubDate>Fri, 22 Oct 2021 12:42:00 +0000</pubDate>
+      <description>Originally aired 2021-10-22.</description>
+      <guid isPermaLink="false">99a4232d-a8db-4eb8-a269-e6d1bffc5396</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6875925503.mp3?updated=1712343935" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#223: O bolso, o voto e a enganação</title>
+      <pubDate>Fri, 21 Oct 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-10-21.</description>
+      <guid isPermaLink="false">9a561c0a-3f19-4745-a45c-3a9c49634442</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5183950350.mp3?updated=1712261925" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#275: Lula e os donos da bola</title>
+      <pubDate>Fri, 20 Oct 2023 13:45:00 +0000</pubDate>
+      <description>Originally aired 2023-10-20.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/57319587</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8781277899.mp3?updated=1712254174" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Eleições e descalabros</title>
+      <pubDate>Fri, 18 Oct 2024 12:42:00 +0000</pubDate>
+      <description>Originally aired 2024-10-18.</description>
+      <guid isPermaLink="false">73c6c164-8d4e-11ef-873f-97ab6829d681</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2205609926.mp3?updated=1729861186" type="audio/mpeg" length="0" />
+      <itunes:duration>01:07:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O divórcio do centrão e o risco Trump</title>
+      <pubDate>Fri, 17 Oct 2025 13:43:00 +0000</pubDate>
+      <description>Originally aired 2025-10-17.</description>
+      <guid isPermaLink="false">c7fb3ff2-ab5d-11f0-a328-139c71f79848</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2113408605.mp3?updated=1760709376" type="audio/mpeg" length="0" />
+      <itunes:duration>01:06:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 43 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 43, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 43 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#24: Bolsonaro radicaliza na reta final, o fim do lulismo e o cenário nos estados</title>
+      <pubDate>Thu, 25 Oct 2018 20:27:00 +0000</pubDate>
+      <description>Originally aired 2018-10-25.</description>
+      <guid isPermaLink="false">6c105b62397b4b5bb03c7ead3660d9ea</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8448544940.mp3?updated=1713217574" type="audio/mpeg" length="0" />
+      <itunes:duration>00:48:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extra: uma conversa sobre Bolsonaro</title>
+      <pubDate>Fri, 26 Oct 2018 19:50:00 +0000</pubDate>
+      <description>Originally aired 2018-10-26.</description>
+      <guid isPermaLink="false">a9bdbdc8df5b4c18a3bb03a7305c7ed3</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9428244383.mp3?updated=1713217376" type="audio/mpeg" length="0" />
+      <itunes:duration>00:26:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#74: A disputa pelo PSL, a catimba do STF e a América Latina em convulsão</title>
+      <pubDate>Thu, 24 Oct 2019 19:45:00 +0000</pubDate>
+      <description>Originally aired 2019-10-24.</description>
+      <guid isPermaLink="false">cc926cf844564afaaf9aea70ef6232b3</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4914383154.mp3?updated=1712698007" type="audio/mpeg" length="0" />
+      <itunes:duration>00:55:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#123: Bolsonaro sem vacina</title>
+      <pubDate>Fri, 23 Oct 2020 13:35:00 +0000</pubDate>
+      <description>Originally aired 2020-10-23.</description>
+      <guid isPermaLink="false">0f3828c0-513f-4599-b013-5f0682b591c7</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1905121255.mp3?updated=1712607899" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #56: Os 26% de infectados e a vacinação</title>
+      <pubDate>Fri, 23 Oct 2020 21:13:54 +0000</pubDate>
+      <description>Originally aired 2020-10-23.</description>
+      <guid isPermaLink="false">ca1c843f-8517-4ceb-a292-3fad4830ca6a</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7462838440.mp3?updated=1698090621" type="audio/mpeg" length="0" />
+      <itunes:duration>00:14:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#174: Bolsonaro e o “tudo por dinheiro”</title>
+      <pubDate>Fri, 29 Oct 2021 12:25:00 +0000</pubDate>
+      <description>Originally aired 2021-10-29.</description>
+      <guid isPermaLink="false">9e2a41ce-7535-4ba3-a267-70cea3e4fe5b</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1400682658.mp3?updated=1712343869" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#224: Saída à la Jefferson</title>
+      <pubDate>Fri, 28 Oct 2022 13:45:00 +0000</pubDate>
+      <description>Originally aired 2022-10-28.</description>
+      <guid isPermaLink="false">cd449e9b-6c82-476b-9003-62914748bf5c</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7445968642.mp3?updated=1712261893" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ouça o convite de Fernando de Barros e Silva</title>
+      <pubDate>Sun, 30 Oct 2022 14:00:00 +0000</pubDate>
+      <description>Originally aired 2022-10-30.</description>
+      <guid isPermaLink="false">1c9f7a25-4551-491f-8991-1bfc541c1156</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6489593694.mp3?updated=1698090507" type="audio/mpeg" length="0" />
+      <itunes:duration>00:01:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title> #276: Milicianos, arapongas e vice-versa</title>
+      <pubDate>Fri, 27 Oct 2023 12:43:15 +0000</pubDate>
+      <description>Originally aired 2023-10-27.</description>
+      <guid isPermaLink="false">6e8bcc5e-74c6-11ee-bd10-03da04d68e91</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2996203424.mp3?updated=1698410911" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title> As eleições, os Brics e a lama</title>
+      <pubDate>Fri, 25 Oct 2024 12:41:00 +0000</pubDate>
+      <description>Originally aired 2024-10-25.</description>
+      <guid isPermaLink="false">742759ae-92ce-11ef-ab5c-8bdbb0b899c5</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1563120023.mp3?updated=1729861098" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title> Lula na Ásia, Valdemar na mira e a COP em apuros</title>
+      <pubDate>Fri, 24 Oct 2025 13:13:00 +0000</pubDate>
+      <description>Originally aired 2025-10-24.</description>
+      <guid isPermaLink="false">330fc876-b0db-11f0-a382-1f2b4378f073</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7739948892.mp3?updated=1761313301" type="audio/mpeg" length="0" />
+      <itunes:duration>01:08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

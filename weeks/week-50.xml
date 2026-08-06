@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 50 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 50, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 50 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#31: O escândalo do motorista, o antiministro do Meio Ambiente e o barraco do PSL</title>
+      <pubDate>Thu, 13 Dec 2018 19:07:00 +0000</pubDate>
+      <description>Originally aired 2018-12-13.</description>
+      <guid isPermaLink="false">08da1f2e555a43e28bd7aa4f322bc6d9</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6957997597.mp3?updated=1713207848" type="audio/mpeg" length="0" />
+      <itunes:duration>00:51:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#81: A popularidade de Bolsonaro, o pacote anticrime sem Moro e as fake news na mira</title>
+      <pubDate>Thu, 12 Dec 2019 19:45:00 +0000</pubDate>
+      <description>Originally aired 2019-12-12.</description>
+      <guid isPermaLink="false">3bb629ec-4d8c-4b90-80d9-81b610f035d0</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7757689711.mp3?updated=1712693539" type="audio/mpeg" length="0" />
+      <itunes:duration>00:51:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#130: À deriva, sem vacina</title>
+      <pubDate>Fri, 11 Dec 2020 13:39:00 +0000</pubDate>
+      <description>Originally aired 2020-12-11.</description>
+      <guid isPermaLink="false">2c2cb4db-dd85-4a33-a430-300bd4707b8e</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8558267260.mp3?updated=1712605651" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep.04 - Senhor, a polícia está subindo | O Sequestro da Amarelinha</title>
+      <pubDate>Mon, 13 Dec 2021 09:00:00 +0000</pubDate>
+      <description>Originally aired 2021-12-13.</description>
+      <guid isPermaLink="false">76cf9394-8814-430b-b4a6-4f2adf3bb52b</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2298014566.mp3?updated=1698090550" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#181: O duopólio das intenções de voto e suas alianças</title>
+      <pubDate>Fri, 17 Dec 2021 13:50:00 +0000</pubDate>
+      <description>Originally aired 2021-12-17.</description>
+      <guid isPermaLink="false">c7c78abb-66b1-42f9-ab16-3aadb2a623a1</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3733116152.mp3?updated=1712343056" type="audio/mpeg" length="0" />
+      <itunes:duration>01:06:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#231: O sabotador da democracia</title>
+      <pubDate>Fri, 16 Dec 2022 13:43:00 +0000</pubDate>
+      <description>Originally aired 2022-12-16.</description>
+      <guid isPermaLink="false">a6c65d98-ba54-4c48-aac7-c1048312f869</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2213310637.mp3?updated=1712261176" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A saúde de Lula, o país da gambiarra e os pobres de Milei</title>
+      <pubDate>Fri, 13 Dec 2024 13:03:00 +0000</pubDate>
+      <description>Originally aired 2024-12-13.</description>
+      <guid isPermaLink="false">19c0cba2-b953-11ef-966f-4baa58609fe0</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2116811977.mp3?updated=1734550604" type="audio/mpeg" length="0" />
+      <itunes:duration>01:08:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Golpe barato, advocacia cara e o preço dos Bolsonaro</title>
+      <pubDate>Fri, 12 Dec 2025 12:42:00 +0000</pubDate>
+      <description>Originally aired 2025-12-12.</description>
+      <guid isPermaLink="false">0ab9e2d2-d758-11f0-8f7c-1bbbcc184192</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1075596292.mp3?updated=1765544846" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 39 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 39, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 39 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#20: O segundo turno já começou, ameaças à democracia e a dura vida dos governadores</title>
+      <pubDate>Thu, 27 Sep 2018 19:50:00 +0000</pubDate>
+      <description>Originally aired 2018-09-27.</description>
+      <guid isPermaLink="false">cacb6668045d48e681d6bc7443b13768</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4223320508.mp3?updated=1713226378" type="audio/mpeg" length="0" />
+      <itunes:duration>00:53:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Recado da Malu</title>
+      <pubDate>Tue, 24 Sep 2019 15:00:00 +0000</pubDate>
+      <description>Originally aired 2019-09-24.</description>
+      <guid isPermaLink="false">ab4ed9921dc74191aae4e5ff071ca520</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5299430979.mp3?updated=1698090738" type="audio/mpeg" length="0" />
+      <itunes:duration>00:01:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#70: Bolsonaro na ONU, o impeachment de Trump e a morte de Ágatha</title>
+      <pubDate>Thu, 26 Sep 2019 19:45:00 +0000</pubDate>
+      <description>Originally aired 2019-09-26.</description>
+      <guid isPermaLink="false">471a781f18544389bc2f0eb547bc8d9d</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7228596271.mp3?updated=1712698464" type="audio/mpeg" length="0" />
+      <itunes:duration>00:55:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #52: Um remédio que evita a internação</title>
+      <pubDate>Tue, 22 Sep 2020 22:32:37 +0000</pubDate>
+      <description>Originally aired 2020-09-22.</description>
+      <guid isPermaLink="false">d8e84722-34ed-4421-89f4-25b4ec39a50c</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9886130977.mp3?updated=1698090633" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#119: Bolsonaro entre o verde e as verdinhas</title>
+      <pubDate>Fri, 25 Sep 2020 14:00:00 +0000</pubDate>
+      <description>Originally aired 2020-09-25.</description>
+      <guid isPermaLink="false">b9f6fa1c-22e0-4ca6-81fc-68d9a919e4e8</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8103839796.mp3?updated=1712610882" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#170: Tempestade de areia sobre o Planalto</title>
+      <pubDate>Fri, 01 Oct 2021 13:20:00 +0000</pubDate>
+      <description>Originally aired 2021-10-01.</description>
+      <guid isPermaLink="false">56358d01-02d3-411a-a617-f282b38eb5d1</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5734415600.mp3?updated=1712344348" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#220: As pesquisas, o debate e a bagunça</title>
+      <pubDate>Fri, 30 Sep 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-09-30.</description>
+      <guid isPermaLink="false">42665935-83ae-4153-80a8-8265a55d81aa</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9554409953.mp3?updated=1712262420" type="audio/mpeg" length="0" />
+      <itunes:duration>01:07:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#272: Golpes, marcos e próteses</title>
+      <pubDate>Fri, 29 Sep 2023 13:40:02 +0000</pubDate>
+      <description>Originally aired 2023-09-29.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/56992175</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7298842352.mp3?updated=1698090453" type="audio/mpeg" length="0" />
+      <itunes:duration>00:58:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O Brasil na ONU, na urna e no TJ</title>
+      <pubDate>Fri, 27 Sep 2024 12:47:00 +0000</pubDate>
+      <description>Originally aired 2024-09-27.</description>
+      <guid isPermaLink="false">bd31b3ee-7cce-11ef-abf8-ab4047c42078</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6306736032.mp3?updated=1727444103" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O aceno de Trump, a derrota da blindagem e a tragédia de Gaza</title>
+      <pubDate>Fri, 26 Sep 2025 12:50:00 +0000</pubDate>
+      <description>Originally aired 2025-09-26.</description>
+      <guid isPermaLink="false">6d36839c-9ad7-11f0-9f37-a76a1407fdc8</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6135673813.mp3?updated=1758892640" type="audio/mpeg" length="0" />
+      <itunes:duration>01:08:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

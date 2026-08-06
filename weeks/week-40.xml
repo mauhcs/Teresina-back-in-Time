@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 40 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 40, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 40 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#21: Moro volta à cena, o efeito bumerangue do #EleNão e o segundo turno antecipado</title>
+      <pubDate>Thu, 04 Oct 2018 19:50:00 +0000</pubDate>
+      <description>Originally aired 2018-10-04.</description>
+      <guid isPermaLink="false">8245121129a549b78a63bcac7ad3a994</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6132409352.mp3?updated=1713226253" type="audio/mpeg" length="0" />
+      <itunes:duration>00:49:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extra: tensão na reta final</title>
+      <pubDate>Fri, 05 Oct 2018 20:07:56 +0000</pubDate>
+      <description>Originally aired 2018-10-05.</description>
+      <guid isPermaLink="false">1d49d035d0cc454580825bfd6d444e07</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7684156247.mp3?updated=1698090803" type="audio/mpeg" length="0" />
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#71: Janot e o acordão, #Lulapreso e a p*rra das árvores</title>
+      <pubDate>Thu, 03 Oct 2019 19:45:00 +0000</pubDate>
+      <description>Originally aired 2019-10-03.</description>
+      <guid isPermaLink="false">e1467ae1a99e46b89a3fea77d044b936</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7527681238.mp3?updated=1712698391" type="audio/mpeg" length="0" />
+      <itunes:duration>00:54:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #53: A geopolítica da vacina</title>
+      <pubDate>Tue, 29 Sep 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-09-29.</description>
+      <guid isPermaLink="false">51796b63-8847-40b5-9314-245d6e302c53</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3240090719.mp3?updated=1698090627" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #54: A força da gravidade genética</title>
+      <pubDate>Thu, 01 Oct 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-10-01.</description>
+      <guid isPermaLink="false">b6b3c3bc-b7a4-4fcb-ae4d-2d7572ed4094</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1045908086.mp3?updated=1698090626" type="audio/mpeg" length="0" />
+      <itunes:duration>00:14:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#120: As pedaladas de Bolsonaro</title>
+      <pubDate>Fri, 02 Oct 2020 13:50:00 +0000</pubDate>
+      <description>Originally aired 2020-10-02.</description>
+      <guid isPermaLink="false">34d73b1a-45c4-4b7e-9542-6384bbc853b2</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5421804805.mp3?updated=1712610696" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#171: Paulo Guedes cai do paraíso fiscal no colo do Arenão</title>
+      <pubDate>Fri, 08 Oct 2021 13:36:23 +0000</pubDate>
+      <description>Originally aired 2021-10-08.</description>
+      <guid isPermaLink="false">fc73c257-8b26-4ce2-9d1e-36204d51c7c4</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8970800452.mp3?updated=1698090561" type="audio/mpeg" length="0" />
+      <itunes:duration>00:56:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#221: A luta final</title>
+      <pubDate>Fri, 07 Oct 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-10-07.</description>
+      <guid isPermaLink="false">2d2c1de8-5993-4fad-a697-da7ed3d6a1ec</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6575505552.mp3?updated=1712262146" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#273: Chacinas em série</title>
+      <pubDate>Fri, 06 Oct 2023 13:40:02 +0000</pubDate>
+      <description>Originally aired 2023-10-06.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/57115406</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9255036495.mp3?updated=1698090452" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>As eleições e a guerra</title>
+      <pubDate>Fri, 04 Oct 2024 12:36:00 +0000</pubDate>
+      <description>Originally aired 2024-10-04.</description>
+      <guid isPermaLink="false">70a4f912-824d-11ef-9f80-7b5eaf3db81c</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU9042337967.mp3?updated=1728046763" type="audio/mpeg" length="0" />
+      <itunes:duration>01:09:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O avanço na tributação, as dúvidas em Gaza e as vítimas do metanol</title>
+      <pubDate>Fri, 03 Oct 2025 12:46:00 +0000</pubDate>
+      <description>Originally aired 2025-10-03.</description>
+      <guid isPermaLink="false">ffd74b76-a056-11f0-babb-e3ed49c01074</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2664638501.mp3?updated=1759497279" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

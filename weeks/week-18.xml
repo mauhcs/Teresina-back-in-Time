@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 18 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 18, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 18 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#49: O levante na Venezuela, o (des)governo da educação e a entrevista de Lula</title>
+      <pubDate>Thu, 02 May 2019 19:51:00 +0000</pubDate>
+      <description>Originally aired 2019-05-02.</description>
+      <guid isPermaLink="false">af192982a0e949e2908820835d2b807e</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4694029175.mp3?updated=1713194458" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #9: Quando gente vira cobaia</title>
+      <pubDate>Tue, 28 Apr 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-04-28.</description>
+      <guid isPermaLink="false">9171db5d-e303-4d88-b327-2d48968ab073</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1681467559.mp3?updated=1698090699" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#98: Bolsonaro enfrenta o Supremo enquanto mortes batem recorde</title>
+      <pubDate>Thu, 30 Apr 2020 19:50:00 +0000</pubDate>
+      <description>Originally aired 2020-04-30.</description>
+      <guid isPermaLink="false">52761a90-050f-4043-9992-d6bca076eeb3</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4720673727.mp3?updated=1712684746" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #10: Quarentena vaivém</title>
+      <pubDate>Fri, 01 May 2020 09:30:00 +0000</pubDate>
+      <description>Originally aired 2020-05-01.</description>
+      <guid isPermaLink="false">0c6c973c-e91c-4eb2-96ef-0381c03345a1</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5485779933.mp3?updated=1698090697" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#149: O Congresso entre a CPI, Bolsonaro e Lula</title>
+      <pubDate>Fri, 07 May 2021 13:21:00 +0000</pubDate>
+      <description>Originally aired 2021-05-07.</description>
+      <guid isPermaLink="false">4a0b450c-32f4-41fd-9e3d-7a04c83de83f</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6523694714.mp3?updated=1712601103" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#199: Bolsonaro, o sapo e a panela</title>
+      <pubDate>Fri, 06 May 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-05-06.</description>
+      <guid isPermaLink="false">de2b1434-7bf2-415f-b42c-dde04c5e476e</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7396704830.mp3?updated=1712268232" type="audio/mpeg" length="0" />
+      <itunes:duration>00:55:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#251: O falso messias</title>
+      <pubDate>Fri, 05 May 2023 13:07:25 +0000</pubDate>
+      <description>Originally aired 2023-05-05.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53751072</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9616573082.mp3?updated=1698090480" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Moderados, desonerados e desaparecidos</title>
+      <pubDate>Fri, 03 May 2024 13:40:00 +0000</pubDate>
+      <description>Originally aired 2024-05-03.</description>
+      <guid isPermaLink="false">50b81266-0948-11ef-969e-ef997400e150</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4985488982.mp3?updated=1714741779" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A fraude do INSS, o acordão para os golpistas e o caos de Donald Trump</title>
+      <pubDate>Fri, 02 May 2025 12:38:00 +0000</pubDate>
+      <description>Originally aired 2025-05-02.</description>
+      <guid isPermaLink="false">6043dca0-2752-11f0-8c80-b72a3348e25e</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4408965727.mp3?updated=1746190535" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A derrota de Lula e a farra da tigrada</title>
+      <pubDate>Fri, 01 May 2026 13:37:00 +0000</pubDate>
+      <description>Originally aired 2026-05-01.</description>
+      <guid isPermaLink="false">ea204f10-4562-11f1-b85e-a76ccad610e9</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1725695645.mp3?updated=1777644079" type="audio/mpeg" length="0" />
+      <itunes:duration>01:09:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

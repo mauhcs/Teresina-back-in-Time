@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 02 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 02, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 02 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#34: O bate-cabeça de Bolsonaro, os novos escândalos do governo e a crise no Ceará</title>
+      <pubDate>Thu, 10 Jan 2019 18:57:00 +0000</pubDate>
+      <description>Originally aired 2019-01-10.</description>
+      <guid isPermaLink="false">98c875cbc69e45538e88101f33e272d6</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6217868071.mp3?updated=1713205340" type="audio/mpeg" length="0" />
+      <itunes:duration>00:47:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#83: EUA x Irã, Bolsonaro x Moro  e o atentado ao Porta dos Fundos</title>
+      <pubDate>Thu, 09 Jan 2020 19:50:00 +0000</pubDate>
+      <description>Originally aired 2020-01-09.</description>
+      <guid isPermaLink="false">c9ea3aa3-ac1c-4864-ae7c-969563b439b5</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP8069423669.mp3?updated=1712690418" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#133: Pouca vacina, muita lambança</title>
+      <pubDate>Fri, 15 Jan 2021 13:38:00 +0000</pubDate>
+      <description>Originally aired 2021-01-15.</description>
+      <guid isPermaLink="false">b58f4f6d-5233-413b-b318-88728b4bacf5</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4712008960.mp3?updated=1712604714" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#183: Surfando a Ômicron no escuro</title>
+      <pubDate>Fri, 14 Jan 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-01-14.</description>
+      <guid isPermaLink="false">7ecf5c6c-ebe4-4791-9b1d-d40bba2b9a80</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7524757192.mp3?updated=1712342555" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extra: Golpe, destruição e reação democrática</title>
+      <pubDate>Tue, 10 Jan 2023 00:41:00 +0000</pubDate>
+      <description>Originally aired 2023-01-10.</description>
+      <guid isPermaLink="false">a24d8c1b-cada-457b-8725-b02a933ab9d5</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9886117689.mp3?updated=1712260916" type="audio/mpeg" length="0" />
+      <itunes:duration>01:14:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#235: O golpe camuflado</title>
+      <pubDate>Fri, 13 Jan 2023 13:43:00 +0000</pubDate>
+      <description>Originally aired 2023-01-13.</description>
+      <guid isPermaLink="false">e7079391-2b39-41b7-b41b-a49afb45dd46</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9923634221.mp3?updated=1712260875" type="audio/mpeg" length="0" />
+      <itunes:duration>01:09:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Democracia, ditadura e distopia</title>
+      <pubDate>Fri, 10 Jan 2025 12:56:00 +0000</pubDate>
+      <description>Originally aired 2025-01-10.</description>
+      <guid isPermaLink="false">4e431a1e-cf52-11ef-850a-b38602260235</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2390783019.mp3?updated=1736519759" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Trump, o pirata do Caribe, e os piratas do Banco Master no Brasil</title>
+      <pubDate>Fri, 09 Jan 2026 12:07:00 +0000</pubDate>
+      <description>Originally aired 2026-01-09.</description>
+      <guid isPermaLink="false">d8441176-ed53-11f0-90e9-af050159f6a1</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU2575879186.mp3?updated=1767963793" type="audio/mpeg" length="0" />
+      <itunes:duration>01:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 52 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 52, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 52 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#233: PT, (mais) uma história</title>
+      <pubDate>Fri, 30 Dec 2022 13:43:00 +0000</pubDate>
+      <description>Originally aired 2022-12-30.</description>
+      <guid isPermaLink="false">a907325b-bc37-4847-8203-38029e86c8da</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4188074531.mp3?updated=1712261014" type="audio/mpeg" length="0" />
+      <itunes:duration>01:05:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Democracia negociada</title>
+      <pubDate>Thu, 26 Dec 2024 10:00:00 +0000</pubDate>
+      <description>Originally aired 2024-12-26.</description>
+      <guid isPermaLink="false">7edad192-bee7-11ef-b1dc-1f6433b28f89</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU8532926630.mp3?updated=1735169256" type="audio/mpeg" length="0" />
+      <itunes:duration>01:09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O impasse brasileiro: uma conversa com André Singer</title>
+      <pubDate>Fri, 26 Dec 2025 13:00:00 +0000</pubDate>
+      <description>Originally aired 2025-12-26.</description>
+      <guid isPermaLink="false">35905a66-e0dd-11f0-8cec-4f597cc2ab7b</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU8339699607.mp3?updated=1766591225" type="audio/mpeg" length="0" />
+      <itunes:duration>01:06:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

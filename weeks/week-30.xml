@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 30 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 30, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 30 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#11: O futuro de Bolsonaro, o xadrez de Alckmin e a armadilha da esquerda</title>
+      <pubDate>Thu, 26 Jul 2018 19:53:00 +0000</pubDate>
+      <description>Originally aired 2018-07-26.</description>
+      <guid isPermaLink="false">3c688ada15974ad486a52751a997fa48</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9942302632.mp3?updated=1713281494" type="audio/mpeg" length="0" />
+      <itunes:duration>00:45:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#61: Três vezes Bolsonaro: Nordeste, mentiras e Lava Jato</title>
+      <pubDate>Thu, 25 Jul 2019 19:45:00 +0000</pubDate>
+      <description>Originally aired 2019-07-25.</description>
+      <guid isPermaLink="false">3f318140394e41c985036d26a59d3b92</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1961269012.mp3?updated=1712700157" type="audio/mpeg" length="0" />
+      <itunes:duration>00:47:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #34: 17 anos de imunidade</title>
+      <pubDate>Tue, 21 Jul 2020 09:00:00 +0000</pubDate>
+      <description>Originally aired 2020-07-21.</description>
+      <guid isPermaLink="false">a9567e1d-1057-4b2a-ac9a-d54477cef9d4</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3495488314.mp3?updated=1698090658" type="audio/mpeg" length="0" />
+      <itunes:duration>00:17:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #35: A guerra da vacina</title>
+      <pubDate>Thu, 23 Jul 2020 09:00:00 +0000</pubDate>
+      <description>Originally aired 2020-07-23.</description>
+      <guid isPermaLink="false">c1e11b43-c649-47d9-a525-ac810384b7ce</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3128480577.mp3?updated=1698090657" type="audio/mpeg" length="0" />
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#110: Bolsonaro e o partido da boquinha</title>
+      <pubDate>Fri, 24 Jul 2020 13:56:00 +0000</pubDate>
+      <description>Originally aired 2020-07-24.</description>
+      <guid isPermaLink="false">e3928357-794d-40df-aa95-142c57763fc3</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9551240469.mp3?updated=1712671761" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #36: Cinto de castidade para vírus</title>
+      <pubDate>Sun, 26 Jul 2020 10:00:00 +0000</pubDate>
+      <description>Originally aired 2020-07-26.</description>
+      <guid isPermaLink="false">c5ad545b-da8e-46f0-a5a9-83aa4f828e0b</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1584856008.mp3?updated=1698090657" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#161: Bolsonaro, o Arenão e suas obras</title>
+      <pubDate>Fri, 30 Jul 2021 13:31:00 +0000</pubDate>
+      <description>Originally aired 2021-07-30.</description>
+      <guid isPermaLink="false">e8022a96-bf1b-4a0b-8b3a-f3018d8cbb07</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2345518162.mp3?updated=1712346647" type="audio/mpeg" length="0" />
+      <itunes:duration>00:59:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#211: Onze de Agosto surpreende Sete de Setembro</title>
+      <pubDate>Fri, 29 Jul 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-07-29.</description>
+      <guid isPermaLink="false">b03adf39-0ba4-4475-be6c-120cf45d7fdb</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4863990359.mp3?updated=1698090520" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Alexandre - Trailer</title>
+      <pubDate>Mon, 24 Jul 2023 03:14:14 +0000</pubDate>
+      <description>Originally aired 2023-07-24.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/56195257</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5693534508.mp3?updated=1698090468" type="audio/mpeg" length="0" />
+      <itunes:duration>00:02:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#263: Marielle, as armas e a armação</title>
+      <pubDate>Fri, 28 Jul 2023 13:45:02 +0000</pubDate>
+      <description>Originally aired 2023-07-28.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/56262868</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9905728896.mp3?updated=1698090467" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Kamala, Maduro e os desafios da democracia na América</title>
+      <pubDate>Fri, 26 Jul 2024 13:14:00 +0000</pubDate>
+      <description>Originally aired 2024-07-26.</description>
+      <guid isPermaLink="false">dfd23a40-4b4b-11ef-8027-b34dc3175c8b</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU3343313395.mp3?updated=1722001110" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A tornozeleira de Jair, as rachaduras do bolsonarismo e a barbárie das ruas</title>
+      <pubDate>Fri, 25 Jul 2025 16:45:00 +0000</pubDate>
+      <description>Originally aired 2025-07-25.</description>
+      <guid isPermaLink="false">26873c22-6957-11f0-b985-2be5d73d7559</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6395565751.mp3?updated=1753919397" type="audio/mpeg" length="0" />
+      <itunes:duration>01:08:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title> Os rolos de Flávio, as articulações de Lula e a jogada de Ciro</title>
+      <pubDate>Fri, 24 Jul 2026 12:35:00 +0000</pubDate>
+      <description>Originally aired 2026-07-24.</description>
+      <guid isPermaLink="false">2361da38-875c-11f1-9a5c-1bcc7af86991</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6009101378.mp3" type="audio/mpeg" length="0" />
+      <itunes:duration>01:11:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 14 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 14, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 14 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#45: O golpe faz aniversário, Bolsonaro vai a Israel e o governo (des) articula a Previdência</title>
+      <pubDate>Thu, 04 Apr 2019 19:50:00 +0000</pubDate>
+      <description>Originally aired 2019-04-04.</description>
+      <guid isPermaLink="false">d9419481e042461ab3029c8ab1eb191b</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1503554992.mp3?updated=1713195380" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#94: A subnotificação do vírus, Bolsonaro acuado e a economia desgovernada</title>
+      <pubDate>Thu, 02 Apr 2020 20:07:00 +0000</pubDate>
+      <description>Originally aired 2020-04-02.</description>
+      <guid isPermaLink="false">aa9a0df8-78c8-4b29-ac61-6eaa3e2fd87a</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9117193773.mp3?updated=1712685816" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luz no fim da quarentena #1: a escalada da montanha</title>
+      <pubDate>Fri, 03 Apr 2020 11:00:00 +0000</pubDate>
+      <description>Originally aired 2020-04-03.</description>
+      <guid isPermaLink="false">35855344-f1f8-4e01-a7e4-262edbcc30d4</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6299166483.mp3?updated=1698090710" type="audio/mpeg" length="0" />
+      <itunes:duration>00:15:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#145: Com fome, com sufoco, com tudo</title>
+      <pubDate>Fri, 09 Apr 2021 13:45:00 +0000</pubDate>
+      <description>Originally aired 2021-04-09.</description>
+      <guid isPermaLink="false">b8f8a0f2-3aee-4def-9bb2-7d62e9257a0e</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP6261057872.mp3?updated=1712601390" type="audio/mpeg" length="0" />
+      <itunes:duration>00:55:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#195: Montado na caquistocracia</title>
+      <pubDate>Fri, 08 Apr 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-04-08.</description>
+      <guid isPermaLink="false">62a2a6ba-b419-40de-b3eb-38c147a28e68</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7410413474.mp3?updated=1712276547" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#247: As dores de cabeça de Lula</title>
+      <pubDate>Fri, 07 Apr 2023 13:45:01 +0000</pubDate>
+      <description>Originally aired 2023-04-07.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/53470627</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1935814223.mp3?updated=1698090484" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O juiz, os jogadores e as regras do jogo</title>
+      <pubDate>Fri, 05 Apr 2024 13:40:00 +0000</pubDate>
+      <description>Originally aired 2024-04-05.</description>
+      <guid isPermaLink="false">13fd445c-f347-11ee-9a07-13a4b4bc28aa</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5913667266.mp3?updated=1712949117" type="audio/mpeg" length="0" />
+      <itunes:duration>01:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A guerra comercial de Trump e outras batalhas brasileiras</title>
+      <pubDate>Fri, 04 Apr 2025 13:37:00 +0000</pubDate>
+      <description>Originally aired 2025-04-04.</description>
+      <guid isPermaLink="false">f6dc9706-1159-11f0-8622-7333f54c8b45</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1078620735.mp3?updated=1743775451" type="audio/mpeg" length="0" />
+      <itunes:duration>01:10:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A extrema direita, a direita extrema e as eleições</title>
+      <pubDate>Fri, 03 Apr 2026 12:27:00 +0000</pubDate>
+      <description>Originally aired 2026-04-03.</description>
+      <guid isPermaLink="false">7fc17e7a-2f58-11f1-b26c-ef7ec6222ae8</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5534229917.mp3?updated=1775220753" type="audio/mpeg" length="0" />
+      <itunes:duration>01:09:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

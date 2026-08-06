@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 45 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 45, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 45 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#26: O gabinete de Bolsonaro, o novo papel de Moro e o Escola Sem Partido</title>
+      <pubDate>Thu, 08 Nov 2018 18:56:00 +0000</pubDate>
+      <description>Originally aired 2018-11-08.</description>
+      <guid isPermaLink="false">bc06a80566a74600b292c91af849877a</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1279788846.mp3?updated=1713209212" type="audio/mpeg" length="0" />
+      <itunes:duration>00:50:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#76: O mistério da casa 58, o golpismo bolsonarista e o pacote de Paulo Guedes</title>
+      <pubDate>Thu, 07 Nov 2019 19:49:00 +0000</pubDate>
+      <description>Originally aired 2019-11-07.</description>
+      <guid isPermaLink="false">2cb894dd6f6f45a392349d8a0d38472c</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2660883164.mp3?updated=1712697541" type="audio/mpeg" length="0" />
+      <itunes:duration>00:50:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#125: As urnas contra Trump e Bolsonaro</title>
+      <pubDate>Fri, 06 Nov 2020 13:50:00 +0000</pubDate>
+      <description>Originally aired 2020-11-06.</description>
+      <guid isPermaLink="false">c5a7ea6a-febe-4d92-a6bf-34d255cb2f2d</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9113652649.mp3?updated=1712607621" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bônus: Por que Joe Biden perdeu a Flórida</title>
+      <pubDate>Fri, 06 Nov 2020 23:00:00 +0000</pubDate>
+      <description>Originally aired 2020-11-06.</description>
+      <guid isPermaLink="false">877999b3-1d43-4528-87b4-2c9cc707c9d6</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4164083769.mp3?updated=1712607388" type="audio/mpeg" length="0" />
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#176: O Boy, o boi e o gado</title>
+      <pubDate>Fri, 12 Nov 2021 13:50:00 +0000</pubDate>
+      <description>Originally aired 2021-11-12.</description>
+      <guid isPermaLink="false">657f250d-98d1-480b-bd6b-86469f1dd3f1</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5850824661.mp3?updated=1712343478" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#226: Cada coisa no seu lugar</title>
+      <pubDate>Fri, 11 Nov 2022 13:45:00 +0000</pubDate>
+      <description>Originally aired 2022-11-11.</description>
+      <guid isPermaLink="false">2177ec18-ea67-47a5-bbbf-a42eb6d7259d</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5706005953.mp3?updated=1712261678" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A vitória de Trump, um compêndio de horrores</title>
+      <pubDate>Fri, 08 Nov 2024 12:26:00 +0000</pubDate>
+      <description>Originally aired 2024-11-08.</description>
+      <guid isPermaLink="false">9401c0ec-9dce-11ef-838a-eb1515ca3bb9</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4435569884.mp3?updated=1731070948" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O saldo da carnificina no Rio e a hora da verdade em Belém</title>
+      <pubDate>Fri, 07 Nov 2025 13:43:00 +0000</pubDate>
+      <description>Originally aired 2025-11-07.</description>
+      <guid isPermaLink="false">0afd9f8e-bbda-11f0-870a-37e779e1251e</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU7643681582.mp3?updated=1762521866" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

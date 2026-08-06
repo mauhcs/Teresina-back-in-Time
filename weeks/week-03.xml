@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foro de Teresina — Week 03 of the Year</title>
+    <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    <language>pt</language>
+    <description>Unofficial personal re-ordering of the Foro de Teresina podcast archive: every historical episode originally published in ISO calendar week 03, oldest year first. Audio is streamed from the original publisher's hosting; nothing is re-hosted here.</description>
+    <itunes:author>piauí</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Foro de Teresina — Week 03 of the Year</title>
+      <link>https://www.spreaker.com/show/foro-de-teresina</link>
+    </image>
+    <item>
+      <title>#35: O decreto das armas, o teatro de Witzel e a prisão de Battisti</title>
+      <pubDate>Thu, 17 Jan 2019 18:48:00 +0000</pubDate>
+      <description>Originally aired 2019-01-17.</description>
+      <guid isPermaLink="false">e0f18591743f4f94adee0c8ae660a50a</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP3141315938.mp3?updated=1713202766" type="audio/mpeg" length="0" />
+      <itunes:duration>00:49:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#84: Ascensão evangélica, Democracia em Vertigem e o Aliança pelo Brasil</title>
+      <pubDate>Thu, 16 Jan 2020 20:54:00 +0000</pubDate>
+      <description>Originally aired 2020-01-16.</description>
+      <guid isPermaLink="false">e4f2a024-485b-477e-b809-3ec54e1c7f2a</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7986170233.mp3?updated=1712690336" type="audio/mpeg" length="0" />
+      <itunes:duration>01:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#134: Sem vacina, sem Trump, sem nada</title>
+      <pubDate>Fri, 22 Jan 2021 14:00:00 +0000</pubDate>
+      <description>Originally aired 2021-01-22.</description>
+      <guid isPermaLink="false">2805bffc-20e0-49d3-90c6-a674cfa3d551</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7675984333.mp3?updated=1712604522" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#184: Quem ganha e quem perde na pandemia</title>
+      <pubDate>Fri, 21 Jan 2022 13:50:00 +0000</pubDate>
+      <description>Originally aired 2022-01-21.</description>
+      <guid isPermaLink="false">11cdffa3-fda7-414d-925c-3aee4b2cecda</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5287486820.mp3?updated=1712342508" type="audio/mpeg" length="0" />
+      <itunes:duration>00:58:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#236: Lula e a militância militar</title>
+      <pubDate>Fri, 20 Jan 2023 13:43:00 +0000</pubDate>
+      <description>Originally aired 2023-01-20.</description>
+      <guid isPermaLink="false">697c2f02-332b-430a-b9ad-f6c7a3fa6815</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7908464363.mp3?updated=1712260822" type="audio/mpeg" length="0" />
+      <itunes:duration>01:05:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>O pix, as bets e o cessar-fogo</title>
+      <pubDate>Fri, 17 Jan 2025 13:30:00 +0000</pubDate>
+      <description>Originally aired 2025-01-17.</description>
+      <guid isPermaLink="false">71f167e6-d4d3-11ef-bd86-6fbe43cdffcc</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU1740747122.mp3?updated=1737121922" type="audio/mpeg" length="0" />
+      <itunes:duration>01:07:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Os novos tentáculos do Master e os novos baianos de Lula</title>
+      <pubDate>Fri, 16 Jan 2026 12:08:00 +0000</pubDate>
+      <description>Originally aired 2026-01-16.</description>
+      <guid isPermaLink="false">091db22c-f2d4-11f0-aa7e-d7d261448c98</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6323367424.mp3?updated=1768566953" type="audio/mpeg" length="0" />
+      <itunes:duration>01:02:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
