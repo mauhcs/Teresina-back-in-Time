@@ -1,45 +1,52 @@
-# Foro de Teresina — Week-of-Year Order
+# Foro de Teresina — Ordem por Semana do Ano
 
-Personal, unofficial re-ordering of the *Foro de Teresina* podcast feed.
-`feed.xml` always contains just the **current ISO calendar week's**
-episodes — every historical episode originally published in that same
-week across all years (2018–2026), oldest year first — and is swapped
-out for the next week's batch automatically.
+Reordenação pessoal e não oficial do feed do podcast *Foro de Teresina*.
+O `feed.xml` sempre contém apenas os episódios da **semana atual do
+calendário ISO** — todo episódio histórico originalmente publicado nessa
+mesma semana ao longo de todos os anos (2018–2026), do ano mais antigo
+para o mais recente — e é trocado automaticamente pelo lote da semana
+seguinte.
 
-No audio is re-hosted. Every item's enclosure points at the original MP3
-URL already hosted by the publisher (Megaphone/Spreaker); this repo only
-holds re-ordered index files (RSS/XML) plus the scripts that build them.
+Nenhum áudio é hospedado novamente aqui. O enclosure de cada episódio
+aponta para a URL original do MP3, já hospedada pela publicadora
+(Megaphone/Spreaker); este repositório só guarda os arquivos de índice
+reordenados (RSS/XML) e os scripts que os geram.
 
-## Files
+## Arquivos
 
-- `episodes.json` — metadata (title, original pubDate, ISO week, duration,
-  enclosure URL) for all 535 episodes, pulled from the official feed
-  (`https://feeds.megaphone.fm/NPP2619427256`).
-- `build_weeks.py` — builds one self-contained feed file per ISO week
-  (`weeks/week-01.xml` … `weeks/week-52.xml`) from `episodes.json`. Only
-  needs to be re-run when new episodes are added to the source feed.
-- `weeks/week-NN.xml` — 52 pre-built feed files, one per calendar week.
-- `sync_week.py` — copies whichever `weeks/week-NN.xml` matches the
-  *current real-world* ISO week over `feed.xml`. This is what actually
-  rotates the live feed.
-- `feed.xml` — the live feed. **Subscribe to this one** in your podcast
-  app. Always holds only the current week's episodes.
-- `.github/workflows/update-feed.yml` — runs `sync_week.py` daily on
-  GitHub's own schedule and pushes `feed.xml` if the week changed. No
-  secrets/tokens needed — it uses the repo's built-in `GITHUB_TOKEN`.
-  Requires Settings → Actions → General → Workflow permissions →
+- `episodes.json` — metadados (título, data de publicação original,
+  semana ISO, duração, URL do enclosure) dos 535 episódios, extraídos do
+  feed oficial (`https://feeds.megaphone.fm/NPP2619427256`).
+- `build_weeks.py` — gera um arquivo de feed autocontido para cada semana
+  ISO (`weeks/week-01.xml` … `weeks/week-52.xml`) a partir de
+  `episodes.json`. Só precisa ser executado de novo quando novos
+  episódios forem adicionados ao feed de origem.
+- `weeks/week-NN.xml` — os 52 arquivos de feed pré-gerados, um por semana
+  do calendário.
+- `sync_week.py` — copia o `weeks/week-NN.xml` correspondente à semana
+  ISO *atual, no mundo real* para `feed.xml`. É isso que efetivamente
+  faz o rodízio do feed ativo.
+- `feed.xml` — o feed ativo. **Assine este** no seu app de podcast.
+  Contém sempre só os episódios da semana atual.
+- `.github/workflows/update-feed.yml` — roda o `sync_week.py`
+  diariamente, no cronograma do próprio GitHub, e envia (push) o
+  `feed.xml` se a semana tiver mudado. Não precisa de segredos/tokens —
+  usa o `GITHUB_TOKEN` embutido do repositório. Requer que em
+  Settings → Actions → General → Workflow permissions esteja marcado
   "Read and write permissions".
 
-## Regenerating
+## Regenerando
 
-If the source podcast publishes new episodes and you want them picked up:
+Se o podcast de origem publicar novos episódios e você quiser
+incorporá-los:
 
 ```
 curl -s "https://feeds.megaphone.fm/NPP2619427256" -o feed_source.xml
-# re-extract episodes.json from feed_source.xml (see project history),
-python3 build_weeks.py   # rebuilds all 52 weekly files
-python3 sync_week.py     # refreshes feed.xml for the current week
+# reextraia o episodes.json a partir do feed_source.xml (ver histórico do projeto),
+python3 build_weeks.py   # reconstrói os 52 arquivos semanais
+python3 sync_week.py     # atualiza o feed.xml para a semana atual
 ```
 
-Day-to-day rotation is handled automatically by the Actions workflow —
-you only need `build_weeks.py` when the underlying episode list changes.
+O rodízio do dia a dia já é feito automaticamente pelo workflow do
+Actions — você só precisa rodar o `build_weeks.py` quando a lista de
+episódios de origem mudar.
