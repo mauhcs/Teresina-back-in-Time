@@ -1,115 +1,124 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Foro de Teresina — Semana 33 do Ano</title>
+    <title>Foro de Teresina — Semana 34 do Ano</title>
     <link>https://www.spreaker.com/show/foro-de-teresina</link>
     <language>pt</language>
-    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 33 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
+    <description>Reordenação pessoal e não oficial do acervo do podcast Foro de Teresina: todo episódio histórico originalmente publicado na semana 34 do calendário ISO, do ano mais antigo para o mais recente. O áudio é transmitido a partir da hospedagem original da publicadora; nada é hospedado novamente aqui.</description>
     <itunes:author>piauí</itunes:author>
     <itunes:image href="https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://megaphone.imgix.net/podcasts/03b80a24-71dc-11ee-9304-278056d646af/image/a549074bc5d7f5ccfde8fec8e212be43.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
-      <title>Foro de Teresina — Semana 33 do Ano</title>
+      <title>Foro de Teresina — Semana 34 do Ano</title>
       <link>https://www.spreaker.com/show/foro-de-teresina</link>
     </image>
     <item>
-      <title>#14: O ventríloquo de Haddad, a sucessão no Rio e o primeiro-ministro de Bolsonaro</title>
-      <pubDate>Thu, 16 Aug 2018 21:30:00 +0000</pubDate>
-      <description>Data original 16-08-2018.</description>
-      <guid isPermaLink="false">5514c2c9fefb480e87baf989b1855614</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP5127102414.mp3?updated=1713228066" type="audio/mpeg" length="0" />
-      <itunes:duration>00:48:44</itunes:duration>
+      <title>#15: Lula x Bolsonaro, Marina e as mulheres, e os conflitos em Roraima</title>
+      <pubDate>Thu, 23 Aug 2018 19:30:00 +0000</pubDate>
+      <description>Data original 23-08-2018.</description>
+      <guid isPermaLink="false">9057d21eb4244f73b6b098205541e36d</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP2687184668.mp3?updated=1713227940" type="audio/mpeg" length="0" />
+      <itunes:duration>00:43:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>#64: A fritura de Moro, a expulsão de Frota e o acordo de Itaipu</title>
-      <pubDate>Thu, 15 Aug 2019 19:45:00 +0000</pubDate>
-      <description>Data original 15-08-2019.</description>
-      <guid isPermaLink="false">ce26b8da3adb4b459ccc0538a79850e0</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP3510731805.mp3?updated=1712699685" type="audio/mpeg" length="0" />
-      <itunes:duration>00:49:12</itunes:duration>
+      <title>Extra: Foro de Teresina especial na 2ª Maratona Piauí CBN de Podcast</title>
+      <pubDate>Tue, 20 Aug 2019 19:41:00 +0000</pubDate>
+      <description>Data original 20-08-2019.</description>
+      <guid isPermaLink="false">e6011950ab3c48f7a701c2da02b851ba</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1133220715.mp3?updated=1712699536" type="audio/mpeg" length="0" />
+      <itunes:duration>00:52:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Luz no fim da quarentena #40: 18% de infectados em São Paulo</title>
-      <pubDate>Mon, 10 Aug 2020 18:00:00 +0000</pubDate>
-      <description>Data original 10-08-2020.</description>
-      <guid isPermaLink="false">63112a5c-5068-4b96-a73c-8702254a09eb</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP7689539828.mp3?updated=1698090649" type="audio/mpeg" length="0" />
-      <itunes:duration>00:17:31</itunes:duration>
+      <title>#65: O sequestro do ônibus, o aparelhamento bolsonarista e a desigualdade brasileira</title>
+      <pubDate>Thu, 22 Aug 2019 19:48:00 +0000</pubDate>
+      <description>Data original 22-08-2019.</description>
+      <guid isPermaLink="false">c3d552457e244aa5bdc4fcb44645902c</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7885356628.mp3?updated=1712699411" type="audio/mpeg" length="0" />
+      <itunes:duration>00:54:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Luz no fim da quarentena #41: Sem sintoma, com Covid-19</title>
-      <pubDate>Thu, 13 Aug 2020 09:30:00 +0000</pubDate>
-      <description>Data original 13-08-2020.</description>
-      <guid isPermaLink="false">b31266ed-ed86-41be-9c5c-427db7efd086</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP4669514399.mp3?updated=1698090648" type="audio/mpeg" length="0" />
-      <itunes:duration>00:15:49</itunes:duration>
+      <title>Luz no fim da quarentena #42: Mortes incontáveis</title>
+      <pubDate>Wed, 19 Aug 2020 09:30:00 +0000</pubDate>
+      <description>Data original 19-08-2020.</description>
+      <guid isPermaLink="false">d9de488b-f6a3-4775-b03d-0de0f64203ab</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7732282453.mp3?updated=1698090647" type="audio/mpeg" length="0" />
+      <itunes:duration>00:16:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>#113: Bolsonaro fura o teto</title>
-      <pubDate>Fri, 14 Aug 2020 14:00:00 +0000</pubDate>
-      <description>Data original 14-08-2020.</description>
-      <guid isPermaLink="false">9cfc5b0f-f687-4863-afae-65476aacf4b2</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP3015040064.mp3?updated=1712612367" type="audio/mpeg" length="0" />
-      <itunes:duration>01:00:52</itunes:duration>
+      <title>Luz no fim da quarentena #43: O soro dos curados</title>
+      <pubDate>Thu, 20 Aug 2020 19:53:37 +0000</pubDate>
+      <description>Data original 20-08-2020.</description>
+      <guid isPermaLink="false">7024f67e-6912-4dd3-be60-c586e712cdc5</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP5266795575.mp3?updated=1698090646" type="audio/mpeg" length="0" />
+      <itunes:duration>00:15:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>#164: Bolsonaro abandona seus caninos</title>
-      <pubDate>Fri, 20 Aug 2021 13:36:00 +0000</pubDate>
-      <description>Data original 20-08-2021.</description>
-      <guid isPermaLink="false">8a3babe8-4cf2-48c0-a2c1-6bb3ddbe03e6</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP6479245280.mp3?updated=1712346530" type="audio/mpeg" length="0" />
-      <itunes:duration>01:01:06</itunes:duration>
+      <title>#114: A Bolso Família</title>
+      <pubDate>Fri, 21 Aug 2020 14:00:00 +0000</pubDate>
+      <description>Data original 21-08-2020.</description>
+      <guid isPermaLink="false">082b1ca3-ac16-4fb9-8131-6c128339e81f</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP1174970810.mp3?updated=1712612249" type="audio/mpeg" length="0" />
+      <itunes:duration>01:00:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>#214: Deus, o cabo eleitoral</title>
-      <pubDate>Fri, 19 Aug 2022 13:50:00 +0000</pubDate>
-      <description>Data original 19-08-2022.</description>
-      <guid isPermaLink="false">53668a30-2458-4251-9557-196f0522b430</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP6729557586.mp3?updated=1712263939" type="audio/mpeg" length="0" />
-      <itunes:duration>01:01:21</itunes:duration>
+      <title>#165: Rachadinha ou morte</title>
+      <pubDate>Fri, 27 Aug 2021 13:35:00 +0000</pubDate>
+      <description>Data original 27-08-2021.</description>
+      <guid isPermaLink="false">435c36ec-fb9e-4fb9-ab3b-3cabcd7ca8ff</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP4044937662.mp3?updated=1712346490" type="audio/mpeg" length="0" />
+      <itunes:duration>00:58:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>#3 O xerife</title>
-      <pubDate>Mon, 14 Aug 2023 04:00:02 +0000</pubDate>
-      <description>Data original 14-08-2023.</description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/56431883</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP2977076459.mp3?updated=1698090462" type="audio/mpeg" length="0" />
-      <itunes:duration>00:00:23</itunes:duration>
+      <title>#215: A hora da tevê</title>
+      <pubDate>Fri, 26 Aug 2022 13:50:00 +0000</pubDate>
+      <description>Data original 26-08-2022.</description>
+      <guid isPermaLink="false">82cdf686-acb3-4b8b-ad5e-2c6402a44c08</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7431297776.mp3?updated=1698090516" type="audio/mpeg" length="0" />
+      <itunes:duration>00:57:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>#266: Militares em crise</title>
-      <pubDate>Fri, 18 Aug 2023 13:45:02 +0000</pubDate>
-      <description>Data original 18-08-2023.</description>
-      <guid isPermaLink="false">https://api.spreaker.com/episode/56512119</guid>
-      <enclosure url="https://traffic.megaphone.fm/NPP2168746168.mp3?updated=1698090461" type="audio/mpeg" length="0" />
-      <itunes:duration>01:04:00</itunes:duration>
+      <title>#4 Passo em falso</title>
+      <pubDate>Mon, 21 Aug 2023 04:00:03 +0000</pubDate>
+      <description>Data original 21-08-2023.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/56516523</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP7008155582.mp3?updated=1698090461" type="audio/mpeg" length="0" />
+      <itunes:duration>00:00:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Kamala, Xandão e Delfim Netto</title>
-      <pubDate>Fri, 16 Aug 2024 13:19:58 +0000</pubDate>
-      <description>Data original 16-08-2024.</description>
-      <guid isPermaLink="false">5bcc13ce-5bcc-11ef-bf82-53da9d0b550a</guid>
-      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU6406931359.mp3?updated=1723814706" type="audio/mpeg" length="0" />
-      <itunes:duration>01:05:11</itunes:duration>
+      <title>#267: Harmonização criminal de Bolsonaro</title>
+      <pubDate>Fri, 25 Aug 2023 13:45:02 +0000</pubDate>
+      <description>Data original 25-08-2023.</description>
+      <guid isPermaLink="false">https://api.spreaker.com/episode/56589332</guid>
+      <enclosure url="https://traffic.megaphone.fm/NPP9527106466.mp3?updated=1698090459" type="audio/mpeg" length="0" />
+      <itunes:duration>00:56:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>A reação ao tarifaço, o rescaldo do motim e o algoritmo da pedofilia</title>
-      <pubDate>Fri, 15 Aug 2025 13:03:00 +0000</pubDate>
-      <description>Data original 15-08-2025.</description>
-      <guid isPermaLink="false">3040de6c-79d8-11f0-868c-ff0cf2ac1221</guid>
-      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU4900663745.mp3?updated=1755264257" type="audio/mpeg" length="0" />
-      <itunes:duration>01:10:34</itunes:duration>
+      <title>A manobra em Brasília, o embuste em São Paulo e o déspota em Caracas</title>
+      <pubDate>Fri, 23 Aug 2024 12:14:00 +0000</pubDate>
+      <description>Data original 23-08-2024.</description>
+      <guid isPermaLink="false">59aedbda-6149-11ef-b9d0-9bca8075b73e</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU5762743606.mp3?updated=1724417289" type="audio/mpeg" length="0" />
+      <itunes:duration>01:03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A família &amp;$&amp;%#£¥, a Magnitsky e o nó ambiental</title>
+      <pubDate>Sat, 23 Aug 2025 15:31:00 +0000</pubDate>
+      <description>Data original 23-08-2025.</description>
+      <guid isPermaLink="false">0c0b74f8-7f55-11f0-bb7f-576cafe401e4</guid>
+      <enclosure url="https://traffic.megaphone.fm/EDITORAALVINEGRALTDAREVISTAPIAU9744602620.mp3?updated=1755963738" type="audio/mpeg" length="0" />
+      <itunes:duration>01:04:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
